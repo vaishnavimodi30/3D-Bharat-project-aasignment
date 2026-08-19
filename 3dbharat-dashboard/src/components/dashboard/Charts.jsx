@@ -23,11 +23,11 @@ const PIE_COLORS = [
   "var(--accent)",
   "var(--accent-2)",
   "var(--warn)",
-  "#B784F0",
-  "#4FB6D9",
-  "#F088A6",
-  "#9AD16C",
-  "#E0A458",
+  "#7C3AED",
+  "#06B6D4",
+  "#EC4899",
+  "#84CC16",
+  "#F59E0B",
 ];
 
 const RISK_COLORS = { Low: "var(--accent)", Medium: "var(--warn)", High: "var(--danger)" };

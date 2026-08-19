@@ -1,36 +1,37 @@
 @import "tailwindcss";
 @custom-variant dark (&:where(.dark, .dark *));
 
+/* 3D Bharat brand — drone & infrastructure tech, matches https://3dbharat.com */
 :root {
-  --bg: #F5F7FA;
+  --bg: #F0FDF8;
   --surface: #FFFFFF;
-  --surface-raised: #FFFFFF;
-  --border: #E2E6EE;
-  --text: #10131A;
-  --text-muted: #5B6472;
-  --accent: #0E9F6E;       /* mint / growth green — primary */
-  --accent-soft: #DDF3E9;
-  --accent-2: #4F5DFF;     /* indigo — secondary, charts */
-  --accent-2-soft: #E6E7FF;
-  --warn: #D97B0A;
-  --danger: #DC4545;
-  --grid-line: #EEF1F6;
+  --surface-raised: #F6FBF9;
+  --border: #D1EAE0;
+  --text: #0A1A12;
+  --text-muted: #4A6B5A;
+  --accent: #059669;       /* 3D Bharat emerald green — primary */
+  --accent-soft: #D1FAE5;
+  --accent-2: #EA580C;     /* 3D Bharat orange — secondary */
+  --accent-2-soft: #FFF0E6;
+  --warn: #D97706;
+  --danger: #DC2626;
+  --grid-line: #E6F4EE;
 }
 
 .dark {
-  --bg: #0A0E17;
-  --surface: #121826;
-  --surface-raised: #161E2E;
-  --border: #232C40;
-  --text: #E7EBF3;
-  --text-muted: #8A94A8;
-  --accent: #2FE3A6;
-  --accent-soft: #0F2C24;
-  --accent-2: #7C87FF;
-  --accent-2-soft: #1B1F3D;
-  --warn: #F2A93C;
-  --danger: #FF6B6B;
-  --grid-line: #1B2233;
+  --bg: #09090B;
+  --surface: #111111;
+  --surface-raised: #18181B;
+  --border: #27272A;
+  --text: #F4F4F5;
+  --text-muted: #A1A1AA;
+  --accent: #10B981;       /* emerald brightened for dark */
+  --accent-soft: #052E1C;
+  --accent-2: #F97316;     /* orange brightened for dark */
+  --accent-2-soft: #2A1200;
+  --warn: #F59E0B;
+  --danger: #EF4444;
+  --grid-line: #1C1C1F;
 }
 
 @theme inline {
@@ -46,7 +47,7 @@
   --color-accent-2-soft: var(--accent-2-soft);
   --color-warn: var(--warn);
   --color-danger: var(--danger);
-  --font-display: "Avenir Next", "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", "Segoe UI", ui-sans-serif, system-ui, sans-serif;
   --font-sans: "Inter", "Segoe UI", ui-sans-serif, system-ui, sans-serif;
 }
 
@@ -103,4 +104,69 @@ body {
 .scrollbar-thin::-webkit-scrollbar-thumb {
   background: var(--border);
   border-radius: 999px;
+}
+
+/* ── Animations ─────────────────────────────────────────── */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes scale-in {
+  from { opacity: 0; transform: scale(0.95); }
+  to   { opacity: 1; transform: scale(1); }
+}
+@keyframes slide-right {
+  from { opacity: 0; transform: translateX(-12px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes shimmer {
+  0%   { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+@keyframes count-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes pulse-ring {
+  0%   { box-shadow: 0 0 0 0 color-mix(in srgb, var(--accent) 40%, transparent); }
+  70%  { box-shadow: 0 0 0 8px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+@keyframes progress-fill {
+  from { width: 0%; }
+}
+
+.animate-fade-up    { animation: fade-up   0.45s cubic-bezier(.22,1,.36,1) both; }
+.animate-fade-in    { animation: fade-in   0.35s ease both; }
+.animate-scale-in   { animation: scale-in  0.35s cubic-bezier(.22,1,.36,1) both; }
+.animate-slide-right{ animation: slide-right 0.4s cubic-bezier(.22,1,.36,1) both; }
+.animate-count-up   { animation: count-up  0.5s cubic-bezier(.22,1,.36,1) both; }
+.animate-pulse-ring { animation: pulse-ring 2s ease-out infinite; }
+.animate-progress   { animation: progress-fill 0.8s cubic-bezier(.22,1,.36,1) both; }
+
+/* stagger helpers */
+.delay-75  { animation-delay: 75ms; }
+.delay-150 { animation-delay: 150ms; }
+.delay-225 { animation-delay: 225ms; }
+.delay-300 { animation-delay: 300ms; }
+
+/* card hover lift */
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px color-mix(in srgb, var(--accent) 12%, transparent);
+  border-color: color-mix(in srgb, var(--accent) 40%, transparent);
+}
+
+/* shimmer skeleton */
+.skeleton {
+  background: linear-gradient(90deg, var(--surface-raised) 25%, var(--border) 50%, var(--surface-raised) 75%);
+  background-size: 800px 100%;
+  animation: shimmer 1.4s infinite linear;
 }

@@ -32,7 +32,7 @@ export default function OverviewPage() {
 
   return (
     <div className="flex flex-col gap-6">
-      <div>
+      <div className="animate-fade-up">
         <h1 className="font-display text-2xl font-semibold">Investor overview</h1>
         <p className="text-sm text-text-muted mt-1">
           A live snapshot of every active deal on the platform, simulated from mock data.
@@ -47,42 +47,20 @@ export default function OverviewPage() {
       {summaryStatus === "succeeded" && summary && (
         <>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            <SummaryCard
-              label="Total investments"
-              value={formatINR(summary.totalInvestments)}
-              sublabel="Raised across all deals"
-              icon={Wallet}
-              tone="accent"
-            />
-            <SummaryCard
-              label="Active deals"
-              value={summary.activeDeals}
-              sublabel="Currently open for investment"
-              icon={Layers}
-              tone="accent2"
-            />
-            <SummaryCard
-              label="Avg. projected ROI"
-              value={formatPercent(summary.avgRoi)}
-              sublabel="Across the full deal pipeline"
-              icon={TrendingUp}
-              tone="accent"
-            />
-            <SummaryCard
-              label="High risk deals"
-              value={summary.riskDistribution.find((r) => r.risk === "High")?.count ?? 0}
-              sublabel="Flagged for elevated risk"
-              icon={ShieldAlert}
-              tone="warn"
-            />
+            <SummaryCard index={0} label="Total investments" value={formatINR(summary.totalInvestments)} sublabel="Raised across all deals" icon={Wallet} tone="accent" />
+            <SummaryCard index={1} label="Active deals" value={summary.activeDeals} sublabel="Currently open for investment" icon={Layers} tone="accent2" />
+            <SummaryCard index={2} label="Avg. projected ROI" value={formatPercent(summary.avgRoi)} sublabel="Across the full deal pipeline" icon={TrendingUp} tone="accent" />
+            <SummaryCard index={3} label="High risk deals" value={summary.riskDistribution.find((r) => r.risk === "High")?.count ?? 0} sublabel="Flagged for elevated risk" icon={ShieldAlert} tone="warn" />
           </div>
 
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 animate-fade-up delay-300">
             <InvestmentGrowthChart data={summary.investmentGrowth} />
             <IndustryDistributionChart data={summary.industryDistribution} />
           </div>
 
-          <RiskVsRoiChart data={summary.riskVsRoi} />
+          <div className="animate-fade-up delay-300">
+            <RiskVsRoiChart data={summary.riskVsRoi} />
+          </div>
         </>
       )}
     </div>
