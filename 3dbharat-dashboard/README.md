@@ -1,9 +1,21 @@
 # 3D Bharat — Investor & Corporate Deal Dashboard
 
+> **Live demo:** [Deploy to Vercel and paste link here]
+
 A fully frontend, no-backend investor/corporate dashboard built for the
 **Full Stack Developer (3D Bharat)** take-home assignment. Every "API call"
 is simulated on the client — there is no server, database, or network
 request anywhere in this app.
+
+## Pages at a glance
+
+| Page | Route | What it shows |
+|---|---|---|
+| Investor Overview | `/` | 4 KPI cards + 3 charts (line, pie, scatter) |
+| Deal Explorer | `/deals` | Search, multi-filter, sort, paginate 80 deals + AI match scores |
+| Deal Details | `/deals/[id]` | Financials, ROI projection chart, risk accordion, tabs |
+| My Interests | `/my-investments` | Saved deals (localStorage) + combined ask |
+| Corporate | `/corporate` | Funding raised, investor count, conversion rate, bar + line charts |
 
 ## Tech stack
 
@@ -124,9 +136,11 @@ selected investor actually changes.
 
 ## UI/UX
 
-- Custom design system (mint-green / indigo accent palette) defined as CSS
-  variables in `globals.css`, with a full dark-mode variant.
-  Toggle it from the navbar; it persists across reloads.
+- Custom design system matching the real **3D Bharat brand** — emerald green
+  primary + orange secondary, defined as CSS variables in `globals.css`,
+  with a full dark-mode variant. Toggle it from the navbar; it persists
+  across reloads. Fonts match the real site: **Space Grotesk** (display)
+  + **Inter** (body).
 - Loading, error, and empty states are handled everywhere data is fetched
   (`components/ui/StatusState.jsx`), including a retry button on errors —
   useful given the simulated ~4% random failure rate.
@@ -145,11 +159,12 @@ selected investor actually changes.
 
 ## Known limitations / next steps
 
-- Mock data regenerates deterministically per `npm install` only if you
-  re-run `node scripts/gen-data.js`; the committed `src/data/*.json` is the
-  version currently shown in the app.
-- No test suite included — given the time box, effort went into
-  architecture and UI polish instead.
-- `react-window` virtualization was not needed at this dataset size (80
-  deals) but the Deal Explorer's pagination-based design means it would
-  drop in cleanly if the dataset grew.
+- Mock data regenerates deterministically — re-run `node scripts/gen-data.js`
+  to get a fresh dataset; the committed `src/data/*.json` is the version
+  currently shown in the app.
+- `react-window` virtualization was not added since pagination keeps the DOM
+  size bounded at 12 cards per page; it would drop in cleanly if the dataset
+  grew to thousands of records.
+- Unit tests for `utils/scoring.js` and `services/dealService.js` are the
+  natural next step — both are pure functions with no side effects, making
+  them straightforward to test with Jest/Vitest.

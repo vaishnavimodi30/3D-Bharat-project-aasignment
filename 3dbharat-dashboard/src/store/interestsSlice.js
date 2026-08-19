@@ -3,35 +3,30 @@ import { createSlice } from "@reduxjs/toolkit";
 const STORAGE_KEY = "3dbharat_interests_v1";
 const PROFILE_KEY = "3dbharat_active_investor_v1";
 
-function loadFromStorage(key, fallback) {
-  if (typeof window === "undefined") return fallback;
-  try {
-    const raw = window.localStorage.getItem(key);
-    return raw ? JSON.parse(raw) : fallback;
-  } catch {
-    return fallback;
-  }
-}
-
 function saveToStorage(key, value) {
   if (typeof window === "undefined") return;
   try {
     window.localStorage.setItem(key, JSON.stringify(value));
-  } catch {
-    // localStorage unavailable (private mode, quota, etc.) — fail silently,
-    // interests just won't persist across reloads.
-  }
+  } catch { /* quota / private mode — fail silently */ }
 }
 
+// Always start empty on both server and client.
+// Providers.jsx hydrates from localStorage after mount.
 const initialState = {
-  dealIds: loadFromStorage(STORAGE_KEY, []),
-  activeInvestorId: loadFromStorage(PROFILE_KEY, null),
+  dealIds: [],
+  activeInvestorId: null,
+  _hydrated: false,
 };
 
 const interestsSlice = createSlice({
   name: "interests",
   initialState,
   reducers: {
+    hydrateInterests(state, action) {
+      state.dealIds = action.payload.dealIds;
+      state.activeInvestorId = action.payload.activeInvestorId;
+      state._hydrated = true;
+    },
     toggleInterest(state, action) {
       const id = action.payload;
       const idx = state.dealIds.indexOf(id);
@@ -46,5 +41,6 @@ const interestsSlice = createSlice({
   },
 });
 
-export const { toggleInterest, setActiveInvestor } = interestsSlice.actions;
+export const { hydrateInterests, toggleInterest, setActiveInvestor } = interestsSlice.actions;
+export { STORAGE_KEY, PROFILE_KEY };
 export default interestsSlice.reducer;

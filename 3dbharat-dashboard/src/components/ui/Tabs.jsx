@@ -13,17 +13,19 @@ export function Tabs({ tabs, defaultTab }) {
           <button
             key={tab.id}
             onClick={() => setActive(tab.id)}
-            className={`px-4 py-2.5 text-sm font-medium whitespace-nowrap border-b-2 -mb-px transition-colors ${
+            className={`px-4 py-2.5 text-sm font-medium whitespace-nowrap border-b-2 -mb-px transition-all duration-200 ${
               active === tab.id
                 ? "border-accent text-accent"
-                : "border-transparent text-text-muted hover:text-text"
+                : "border-transparent text-text-muted hover:text-text hover:border-border"
             }`}
           >
             {tab.label}
           </button>
         ))}
       </div>
-      <div className="pt-5">{activeTab?.content}</div>
+      <div key={active} className="pt-5 animate-fade-up">
+        {activeTab?.content}
+      </div>
     </div>
   );
 }

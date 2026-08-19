@@ -14,18 +14,24 @@ export function Accordion({ items }) {
           <div key={i} className="rounded-xl border border-border overflow-hidden">
             <button
               onClick={() => setOpenIndex(open ? -1 : i)}
-              className="w-full flex items-center justify-between px-4 py-3 text-sm font-medium text-left"
+              className="w-full flex items-center justify-between px-4 py-3 text-sm font-medium text-left hover:bg-surface-raised transition-colors"
               aria-expanded={open}
             >
               {item.title}
               <ChevronDown
                 size={15}
-                className={`text-text-muted transition-transform ${open ? "rotate-180" : ""}`}
+                className={`text-text-muted transition-transform duration-300 ${open ? "rotate-180" : ""}`}
               />
             </button>
-            {open && (
-              <div className="px-4 pb-3 text-sm text-text-muted">{item.content}</div>
-            )}
+            <div
+              className={`overflow-hidden transition-all duration-300 ease-in-out ${
+                open ? "max-h-40 opacity-100" : "max-h-0 opacity-0"
+              }`}
+            >
+              <div className="px-4 pb-4 pt-1 text-sm text-text-muted leading-relaxed">
+                {item.content}
+              </div>
+            </div>
           </div>
         );
       })}
