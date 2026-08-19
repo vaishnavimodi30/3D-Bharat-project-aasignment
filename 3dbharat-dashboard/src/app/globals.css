@@ -1,0 +1,106 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg: #F5F7FA;
+  --surface: #FFFFFF;
+  --surface-raised: #FFFFFF;
+  --border: #E2E6EE;
+  --text: #10131A;
+  --text-muted: #5B6472;
+  --accent: #0E9F6E;       /* mint / growth green — primary */
+  --accent-soft: #DDF3E9;
+  --accent-2: #4F5DFF;     /* indigo — secondary, charts */
+  --accent-2-soft: #E6E7FF;
+  --warn: #D97B0A;
+  --danger: #DC4545;
+  --grid-line: #EEF1F6;
+}
+
+.dark {
+  --bg: #0A0E17;
+  --surface: #121826;
+  --surface-raised: #161E2E;
+  --border: #232C40;
+  --text: #E7EBF3;
+  --text-muted: #8A94A8;
+  --accent: #2FE3A6;
+  --accent-soft: #0F2C24;
+  --accent-2: #7C87FF;
+  --accent-2-soft: #1B1F3D;
+  --warn: #F2A93C;
+  --danger: #FF6B6B;
+  --grid-line: #1B2233;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-raised: var(--surface-raised);
+  --color-border: var(--border);
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-2: var(--accent-2);
+  --color-accent-2-soft: var(--accent-2-soft);
+  --color-warn: var(--warn);
+  --color-danger: var(--danger);
+  --font-display: "Avenir Next", "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Inter", "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  color-scheme: light;
+}
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+::selection {
+  background: var(--accent-soft);
+  color: var(--text);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  height: 6px;
+  width: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 999px;
+}

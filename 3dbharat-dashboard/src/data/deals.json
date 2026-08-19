@@ -1,0 +1,8242 @@
+[
+  {
+    "id": "deal-1",
+    "name": "Vertex Systems",
+    "tagline": "Agritech company building for Pune and beyond",
+    "industry": "Agritech",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 14.05,
+    "investmentAsk": 28200000,
+    "raisedSoFar": 5358000,
+    "minTicket": 50000,
+    "investorsCount": 48,
+    "foundedYear": 2015,
+    "city": "Pune",
+    "description": "Vertex Systems is a series a-stage agritech company headquartered in Pune, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 4715040,
+      "expenses": 2732580,
+      "valuation": 280590000,
+      "burnRateMonthly": 375060
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 14.1
+      },
+      {
+        "year": "Y2",
+        "projected": 19
+      },
+      {
+        "year": "Y3",
+        "projected": 23.9
+      },
+      {
+        "year": "Y4",
+        "projected": 28.8
+      },
+      {
+        "year": "Y5",
+        "projected": 33.7
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Technology obsolescence",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1768140
+      },
+      {
+        "month": "Feb",
+        "value": 2001944
+      },
+      {
+        "month": "Mar",
+        "value": 2289327
+      },
+      {
+        "month": "Apr",
+        "value": 2683871
+      },
+      {
+        "month": "May",
+        "value": 3078415
+      },
+      {
+        "month": "Jun",
+        "value": 3419378
+      },
+      {
+        "month": "Jul",
+        "value": 3546022
+      },
+      {
+        "month": "Aug",
+        "value": 3886985
+      },
+      {
+        "month": "Sep",
+        "value": 4495849
+      },
+      {
+        "month": "Oct",
+        "value": 4676073
+      },
+      {
+        "month": "Nov",
+        "value": 4909876
+      },
+      {
+        "month": "Dec",
+        "value": 5358000
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "B2C"
+    ]
+  },
+  {
+    "id": "deal-2",
+    "name": "Orbit Labs",
+    "tagline": "AI/ML company building for Ahmedabad and beyond",
+    "industry": "AI/ML",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 10.88,
+    "investmentAsk": 41100000,
+    "raisedSoFar": 23838000,
+    "minTicket": 20000,
+    "investorsCount": 84,
+    "foundedYear": 2014,
+    "city": "Ahmedabad",
+    "description": "Orbit Labs is a growth-stage ai/ml company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2014, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 28367220,
+      "expenses": 7151400,
+      "valuation": 320991000,
+      "burnRateMonthly": 1430280
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 10.9
+      },
+      {
+        "year": "Y2",
+        "projected": 14.7
+      },
+      {
+        "year": "Y3",
+        "projected": 18.5
+      },
+      {
+        "year": "Y4",
+        "projected": 22.3
+      },
+      {
+        "year": "Y5",
+        "projected": 26.1
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Supply chain dependency",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 6674640
+      },
+      {
+        "month": "Feb",
+        "value": 9145124
+      },
+      {
+        "month": "Mar",
+        "value": 9470187
+      },
+      {
+        "month": "Apr",
+        "value": 11463911
+      },
+      {
+        "month": "May",
+        "value": 12742495
+      },
+      {
+        "month": "Jun",
+        "value": 14497838
+      },
+      {
+        "month": "Jul",
+        "value": 16968322
+      },
+      {
+        "month": "Aug",
+        "value": 18008525
+      },
+      {
+        "month": "Sep",
+        "value": 19763869
+      },
+      {
+        "month": "Oct",
+        "value": 20804073
+      },
+      {
+        "month": "Nov",
+        "value": 22797796
+      },
+      {
+        "month": "Dec",
+        "value": 24314760
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-3",
+    "name": "Lumen Innovations",
+    "tagline": "Agritech company building for Chennai and beyond",
+    "industry": "Agritech",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 30.55,
+    "investmentAsk": 4600000,
+    "raisedSoFar": 506000,
+    "minTicket": 50000,
+    "investorsCount": 9,
+    "foundedYear": 2024,
+    "city": "Chennai",
+    "description": "Lumen Innovations is a growth-stage agritech company headquartered in Chennai, focused on scalable, technology-first growth. Founded in 2024, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 425040,
+      "expenses": 106260,
+      "valuation": 33074000,
+      "burnRateMonthly": 20240
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 30.6
+      },
+      {
+        "year": "Y2",
+        "projected": 41.2
+      },
+      {
+        "year": "Y3",
+        "projected": 51.9
+      },
+      {
+        "year": "Y4",
+        "projected": 62.6
+      },
+      {
+        "year": "Y5",
+        "projected": 73.3
+      }
+    ],
+    "riskFactors": [
+      "Supply chain dependency",
+      "Founder dependency",
+      "Execution risk"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 151800
+      },
+      {
+        "month": "Feb",
+        "value": 178940
+      },
+      {
+        "month": "Mar",
+        "value": 201020
+      },
+      {
+        "month": "Apr",
+        "value": 258520
+      },
+      {
+        "month": "May",
+        "value": 285660
+      },
+      {
+        "month": "Jun",
+        "value": 322920
+      },
+      {
+        "month": "Jul",
+        "value": 350060
+      },
+      {
+        "month": "Aug",
+        "value": 387320
+      },
+      {
+        "month": "Sep",
+        "value": 409400
+      },
+      {
+        "month": "Oct",
+        "value": 446660
+      },
+      {
+        "month": "Nov",
+        "value": 483920
+      },
+      {
+        "month": "Dec",
+        "value": 495880
+      }
+    ],
+    "tags": [
+      "B2B",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-4",
+    "name": "Sahaj Labs",
+    "tagline": "Biotech company building for Delhi NCR and beyond",
+    "industry": "Biotech",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 43.43,
+    "investmentAsk": 38800000,
+    "raisedSoFar": 6984000,
+    "minTicket": 40000,
+    "investorsCount": 62,
+    "foundedYear": 2021,
+    "city": "Delhi NCR",
+    "description": "Sahaj Labs is a growth-stage biotech company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2021, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 4679280,
+      "expenses": 2095200,
+      "valuation": 192836000,
+      "burnRateMonthly": 488880
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 43.4
+      },
+      {
+        "year": "Y2",
+        "projected": 58.6
+      },
+      {
+        "year": "Y3",
+        "projected": 73.8
+      },
+      {
+        "year": "Y4",
+        "projected": 89
+      },
+      {
+        "year": "Y5",
+        "projected": 104.2
+      }
+    ],
+    "riskFactors": [
+      "Technology obsolescence",
+      "Customer concentration",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2095200
+      },
+      {
+        "month": "Feb",
+        "value": 2469796
+      },
+      {
+        "month": "Mar",
+        "value": 3193593
+      },
+      {
+        "month": "Apr",
+        "value": 3218989
+      },
+      {
+        "month": "May",
+        "value": 3942785
+      },
+      {
+        "month": "Jun",
+        "value": 4457062
+      },
+      {
+        "month": "Jul",
+        "value": 4552298
+      },
+      {
+        "month": "Aug",
+        "value": 5415775
+      },
+      {
+        "month": "Sep",
+        "value": 5720531
+      },
+      {
+        "month": "Oct",
+        "value": 6164967
+      },
+      {
+        "month": "Nov",
+        "value": 6749084
+      },
+      {
+        "month": "Dec",
+        "value": 6984000
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-5",
+    "name": "Terra Innovations",
+    "tagline": "Media company building for Jaipur and beyond",
+    "industry": "Media",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 24.87,
+    "investmentAsk": 18500000,
+    "raisedSoFar": 6845000,
+    "minTicket": 20000,
+    "investorsCount": 89,
+    "foundedYear": 2017,
+    "city": "Jaipur",
+    "description": "Terra Innovations is a seed-stage media company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2017, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 4586150,
+      "expenses": 2053500,
+      "valuation": 179635000,
+      "burnRateMonthly": 273800
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 24.9
+      },
+      {
+        "year": "Y2",
+        "projected": 33.6
+      },
+      {
+        "year": "Y3",
+        "projected": 42.3
+      },
+      {
+        "year": "Y4",
+        "projected": 51
+      },
+      {
+        "year": "Y5",
+        "projected": 59.7
+      }
+    ],
+    "riskFactors": [
+      "Founder dependency",
+      "Technology obsolescence",
+      "Execution risk"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2053500
+      },
+      {
+        "month": "Feb",
+        "value": 2283741
+      },
+      {
+        "month": "Mar",
+        "value": 2993132
+      },
+      {
+        "month": "Apr",
+        "value": 3154923
+      },
+      {
+        "month": "May",
+        "value": 3727414
+      },
+      {
+        "month": "Jun",
+        "value": 4163005
+      },
+      {
+        "month": "Jul",
+        "value": 4598595
+      },
+      {
+        "month": "Aug",
+        "value": 4965736
+      },
+      {
+        "month": "Sep",
+        "value": 5675127
+      },
+      {
+        "month": "Oct",
+        "value": 6042268
+      },
+      {
+        "month": "Nov",
+        "value": 6272509
+      },
+      {
+        "month": "Dec",
+        "value": 6776550
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-6",
+    "name": "Bharat Solutions",
+    "tagline": "Healthtech company building for Kochi and beyond",
+    "industry": "Healthtech",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 24.73,
+    "investmentAsk": 23500000,
+    "raisedSoFar": 15745000,
+    "minTicket": 90000,
+    "investorsCount": 17,
+    "foundedYear": 2016,
+    "city": "Kochi",
+    "description": "Bharat Solutions is a series a-stage healthtech company headquartered in Kochi, focused on scalable, technology-first growth. Founded in 2016, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 16374800,
+      "expenses": 4880950,
+      "valuation": 121260000,
+      "burnRateMonthly": 787250
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 24.7
+      },
+      {
+        "year": "Y2",
+        "projected": 33.4
+      },
+      {
+        "year": "Y3",
+        "projected": 42
+      },
+      {
+        "year": "Y4",
+        "projected": 50.7
+      },
+      {
+        "year": "Y5",
+        "projected": 59.4
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Supply chain dependency",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 4408600
+      },
+      {
+        "month": "Feb",
+        "value": 5725455
+      },
+      {
+        "month": "Mar",
+        "value": 7042309
+      },
+      {
+        "month": "Apr",
+        "value": 7571914
+      },
+      {
+        "month": "May",
+        "value": 9203668
+      },
+      {
+        "month": "Jun",
+        "value": 10205623
+      },
+      {
+        "month": "Jul",
+        "value": 10262877
+      },
+      {
+        "month": "Aug",
+        "value": 12209532
+      },
+      {
+        "month": "Sep",
+        "value": 12581686
+      },
+      {
+        "month": "Oct",
+        "value": 14213441
+      },
+      {
+        "month": "Nov",
+        "value": 14270695
+      },
+      {
+        "month": "Dec",
+        "value": 15587550
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-7",
+    "name": "Sundar Networks",
+    "tagline": "Clean Energy company building for Mumbai and beyond",
+    "industry": "Clean Energy",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 33.1,
+    "investmentAsk": 17000000,
+    "raisedSoFar": 14280000,
+    "minTicket": 80000,
+    "investorsCount": 14,
+    "foundedYear": 2016,
+    "city": "Mumbai",
+    "description": "Sundar Networks is a seed-stage clean energy company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2016, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 15422400,
+      "expenses": 4998000,
+      "valuation": 157080000,
+      "burnRateMonthly": 571200
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 33.1
+      },
+      {
+        "year": "Y2",
+        "projected": 44.7
+      },
+      {
+        "year": "Y3",
+        "projected": 56.3
+      },
+      {
+        "year": "Y4",
+        "projected": 67.9
+      },
+      {
+        "year": "Y5",
+        "projected": 79.4
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Founder dependency",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 4569600
+      },
+      {
+        "month": "Feb",
+        "value": 5478327
+      },
+      {
+        "month": "Mar",
+        "value": 6387055
+      },
+      {
+        "month": "Apr",
+        "value": 7152982
+      },
+      {
+        "month": "May",
+        "value": 8061709
+      },
+      {
+        "month": "Jun",
+        "value": 9256036
+      },
+      {
+        "month": "Jul",
+        "value": 9593564
+      },
+      {
+        "month": "Aug",
+        "value": 10502291
+      },
+      {
+        "month": "Sep",
+        "value": 11553818
+      },
+      {
+        "month": "Oct",
+        "value": 12462545
+      },
+      {
+        "month": "Nov",
+        "value": 13085673
+      },
+      {
+        "month": "Dec",
+        "value": 14137200
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-8",
+    "name": "Vayu Ventures",
+    "tagline": "Agritech company building for Mumbai and beyond",
+    "industry": "Agritech",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 10.85,
+    "investmentAsk": 26300000,
+    "raisedSoFar": 8942000,
+    "minTicket": 80000,
+    "investorsCount": 63,
+    "foundedYear": 2015,
+    "city": "Mumbai",
+    "description": "Vayu Ventures is a series b-stage agritech company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 6617080,
+      "expenses": 4023900,
+      "valuation": 285355000,
+      "burnRateMonthly": 625940
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 10.9
+      },
+      {
+        "year": "Y2",
+        "projected": 14.6
+      },
+      {
+        "year": "Y3",
+        "projected": 18.4
+      },
+      {
+        "year": "Y4",
+        "projected": 22.2
+      },
+      {
+        "year": "Y5",
+        "projected": 26
+      }
+    ],
+    "riskFactors": [
+      "Founder dependency",
+      "Technology obsolescence",
+      "Market competition"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2772020
+      },
+      {
+        "month": "Feb",
+        "value": 3430476
+      },
+      {
+        "month": "Mar",
+        "value": 3910093
+      },
+      {
+        "month": "Apr",
+        "value": 4210869
+      },
+      {
+        "month": "May",
+        "value": 4958745
+      },
+      {
+        "month": "Jun",
+        "value": 5796042
+      },
+      {
+        "month": "Jul",
+        "value": 5828558
+      },
+      {
+        "month": "Aug",
+        "value": 6487015
+      },
+      {
+        "month": "Sep",
+        "value": 7503151
+      },
+      {
+        "month": "Oct",
+        "value": 8072187
+      },
+      {
+        "month": "Nov",
+        "value": 8372964
+      },
+      {
+        "month": "Dec",
+        "value": 8673740
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Recurring revenue"
+    ]
+  },
+  {
+    "id": "deal-9",
+    "name": "Indus Solutions",
+    "tagline": "Real Estate company building for Jaipur and beyond",
+    "industry": "Real Estate",
+    "stage": "Series B",
+    "risk": "Low",
+    "roi": 37.8,
+    "investmentAsk": 12300000,
+    "raisedSoFar": 7872000,
+    "minTicket": 90000,
+    "investorsCount": 47,
+    "foundedYear": 2015,
+    "city": "Jaipur",
+    "description": "Indus Solutions is a series b-stage real estate company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 8816640,
+      "expenses": 3699840,
+      "valuation": 57687000,
+      "burnRateMonthly": 551040
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 37.8
+      },
+      {
+        "year": "Y2",
+        "projected": 51
+      },
+      {
+        "year": "Y3",
+        "projected": 64.3
+      },
+      {
+        "year": "Y4",
+        "projected": 77.5
+      },
+      {
+        "year": "Y5",
+        "projected": 90.7
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Regulatory changes",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2519040
+      },
+      {
+        "month": "Feb",
+        "value": 2705105
+      },
+      {
+        "month": "Mar",
+        "value": 3363491
+      },
+      {
+        "month": "Apr",
+        "value": 3943156
+      },
+      {
+        "month": "May",
+        "value": 4207942
+      },
+      {
+        "month": "Jun",
+        "value": 4945047
+      },
+      {
+        "month": "Jul",
+        "value": 5367273
+      },
+      {
+        "month": "Aug",
+        "value": 5789498
+      },
+      {
+        "month": "Sep",
+        "value": 6447884
+      },
+      {
+        "month": "Oct",
+        "value": 6791389
+      },
+      {
+        "month": "Nov",
+        "value": 7528495
+      },
+      {
+        "month": "Dec",
+        "value": 8029440
+      }
+    ],
+    "tags": [
+      "B2C",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-10",
+    "name": "Vayu Industries",
+    "tagline": "E-commerce company building for Delhi NCR and beyond",
+    "industry": "E-commerce",
+    "stage": "Seed",
+    "risk": "Medium",
+    "roi": 36.43,
+    "investmentAsk": 45300000,
+    "raisedSoFar": 18573000,
+    "minTicket": 20000,
+    "investorsCount": 117,
+    "foundedYear": 2015,
+    "city": "Delhi NCR",
+    "description": "Vayu Industries is a seed-stage e-commerce company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 8915040,
+      "expenses": 16715700,
+      "valuation": 382332000,
+      "burnRateMonthly": 928650
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 36.4
+      },
+      {
+        "year": "Y2",
+        "projected": 49.2
+      },
+      {
+        "year": "Y3",
+        "projected": 61.9
+      },
+      {
+        "year": "Y4",
+        "projected": 74.7
+      },
+      {
+        "year": "Y5",
+        "projected": 87.4
+      }
+    ],
+    "riskFactors": [
+      "Supply chain dependency",
+      "Market competition",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 5571900
+      },
+      {
+        "month": "Feb",
+        "value": 6753818
+      },
+      {
+        "month": "Mar",
+        "value": 7750006
+      },
+      {
+        "month": "Apr",
+        "value": 9674845
+      },
+      {
+        "month": "May",
+        "value": 10485303
+      },
+      {
+        "month": "Jun",
+        "value": 11295761
+      },
+      {
+        "month": "Jul",
+        "value": 12477679
+      },
+      {
+        "month": "Aug",
+        "value": 13659597
+      },
+      {
+        "month": "Sep",
+        "value": 14470055
+      },
+      {
+        "month": "Oct",
+        "value": 16394894
+      },
+      {
+        "month": "Nov",
+        "value": 17762542
+      },
+      {
+        "month": "Dec",
+        "value": 18573000
+      }
+    ],
+    "tags": [
+      "B2C",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-11",
+    "name": "Indus Ventures",
+    "tagline": "Real Estate company building for Jaipur and beyond",
+    "industry": "Real Estate",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 16.02,
+    "investmentAsk": 31800000,
+    "raisedSoFar": 12402000,
+    "minTicket": 90000,
+    "investorsCount": 114,
+    "foundedYear": 2024,
+    "city": "Jaipur",
+    "description": "Indus Ventures is a growth-stage real estate company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2024, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 10293660,
+      "expenses": 3348540,
+      "valuation": 362202000,
+      "burnRateMonthly": 372060
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 16
+      },
+      {
+        "year": "Y2",
+        "projected": 21.6
+      },
+      {
+        "year": "Y3",
+        "projected": 27.2
+      },
+      {
+        "year": "Y4",
+        "projected": 32.8
+      },
+      {
+        "year": "Y5",
+        "projected": 38.4
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Market competition",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 4092660
+      },
+      {
+        "month": "Feb",
+        "value": 4757858
+      },
+      {
+        "month": "Mar",
+        "value": 5175016
+      },
+      {
+        "month": "Apr",
+        "value": 6460315
+      },
+      {
+        "month": "May",
+        "value": 7001493
+      },
+      {
+        "month": "Jun",
+        "value": 7542671
+      },
+      {
+        "month": "Jul",
+        "value": 8579929
+      },
+      {
+        "month": "Aug",
+        "value": 8997087
+      },
+      {
+        "month": "Sep",
+        "value": 9786305
+      },
+      {
+        "month": "Oct",
+        "value": 10699544
+      },
+      {
+        "month": "Nov",
+        "value": 11736802
+      },
+      {
+        "month": "Dec",
+        "value": 12153960
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "B2C"
+    ]
+  },
+  {
+    "id": "deal-12",
+    "name": "Anant Ventures",
+    "tagline": "Mobility company building for Bengaluru and beyond",
+    "industry": "Mobility",
+    "stage": "Seed",
+    "risk": "Low",
+    "roi": 33.31,
+    "investmentAsk": 34700000,
+    "raisedSoFar": 20126000,
+    "minTicket": 80000,
+    "investorsCount": 47,
+    "foundedYear": 2014,
+    "city": "Bengaluru",
+    "description": "Anant Ventures is a seed-stage mobility company headquartered in Bengaluru, focused on scalable, technology-first growth. Founded in 2014, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 8654180,
+      "expenses": 14490720,
+      "valuation": 339713000,
+      "burnRateMonthly": 1006300
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 33.3
+      },
+      {
+        "year": "Y2",
+        "projected": 45
+      },
+      {
+        "year": "Y3",
+        "projected": 56.6
+      },
+      {
+        "year": "Y4",
+        "projected": 68.3
+      },
+      {
+        "year": "Y5",
+        "projected": 79.9
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Regulatory changes",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 6239060
+      },
+      {
+        "month": "Feb",
+        "value": 7117285
+      },
+      {
+        "month": "Mar",
+        "value": 9203071
+      },
+      {
+        "month": "Apr",
+        "value": 10483816
+      },
+      {
+        "month": "May",
+        "value": 10758262
+      },
+      {
+        "month": "Jun",
+        "value": 12441527
+      },
+      {
+        "month": "Jul",
+        "value": 14124793
+      },
+      {
+        "month": "Aug",
+        "value": 14801758
+      },
+      {
+        "month": "Sep",
+        "value": 16485024
+      },
+      {
+        "month": "Oct",
+        "value": 16960729
+      },
+      {
+        "month": "Nov",
+        "value": 19449035
+      },
+      {
+        "month": "Dec",
+        "value": 19522220
+      }
+    ],
+    "tags": [
+      "B2B",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-13",
+    "name": "Lumen Systems",
+    "tagline": "Biotech company building for Kochi and beyond",
+    "industry": "Biotech",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 18.9,
+    "investmentAsk": 45100000,
+    "raisedSoFar": 11275000,
+    "minTicket": 80000,
+    "investorsCount": 99,
+    "foundedYear": 2017,
+    "city": "Kochi",
+    "description": "Lumen Systems is a series b-stage biotech company headquartered in Kochi, focused on scalable, technology-first growth. Founded in 2017, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 5186500,
+      "expenses": 3833500,
+      "valuation": 241736000,
+      "burnRateMonthly": 451000
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 18.9
+      },
+      {
+        "year": "Y2",
+        "projected": 25.5
+      },
+      {
+        "year": "Y3",
+        "projected": 32.1
+      },
+      {
+        "year": "Y4",
+        "projected": 38.7
+      },
+      {
+        "year": "Y5",
+        "projected": 45.4
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Technology obsolescence",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 3044250
+      },
+      {
+        "month": "Feb",
+        "value": 4325500
+      },
+      {
+        "month": "Mar",
+        "value": 4479250
+      },
+      {
+        "month": "Apr",
+        "value": 5535000
+      },
+      {
+        "month": "May",
+        "value": 6365250
+      },
+      {
+        "month": "Jun",
+        "value": 7195500
+      },
+      {
+        "month": "Jul",
+        "value": 7913000
+      },
+      {
+        "month": "Aug",
+        "value": 8066750
+      },
+      {
+        "month": "Sep",
+        "value": 8897000
+      },
+      {
+        "month": "Oct",
+        "value": 9727250
+      },
+      {
+        "month": "Nov",
+        "value": 10783000
+      },
+      {
+        "month": "Dec",
+        "value": 11387750
+      }
+    ],
+    "tags": [
+      "Profitable",
+      "Recurring revenue"
+    ]
+  },
+  {
+    "id": "deal-14",
+    "name": "Kite Ventures",
+    "tagline": "Manufacturing company building for Mumbai and beyond",
+    "industry": "Manufacturing",
+    "stage": "Series A",
+    "risk": "Medium",
+    "roi": 13.16,
+    "investmentAsk": 16600000,
+    "raisedSoFar": 15438000,
+    "minTicket": 20000,
+    "investorsCount": 60,
+    "foundedYear": 2019,
+    "city": "Mumbai",
+    "description": "Kite Ventures is a series a-stage manufacturing company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2019, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 13739820,
+      "expenses": 12350400,
+      "valuation": 194552000,
+      "burnRateMonthly": 463140
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 13.2
+      },
+      {
+        "year": "Y2",
+        "projected": 17.8
+      },
+      {
+        "year": "Y3",
+        "projected": 22.4
+      },
+      {
+        "year": "Y4",
+        "projected": 27
+      },
+      {
+        "year": "Y5",
+        "projected": 31.6
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Supply chain dependency",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 4940160
+      },
+      {
+        "month": "Feb",
+        "value": 5459438
+      },
+      {
+        "month": "Mar",
+        "value": 6287476
+      },
+      {
+        "month": "Apr",
+        "value": 7269895
+      },
+      {
+        "month": "May",
+        "value": 8406693
+      },
+      {
+        "month": "Jun",
+        "value": 9389111
+      },
+      {
+        "month": "Jul",
+        "value": 10371529
+      },
+      {
+        "month": "Aug",
+        "value": 11817087
+      },
+      {
+        "month": "Sep",
+        "value": 12490745
+      },
+      {
+        "month": "Oct",
+        "value": 13473164
+      },
+      {
+        "month": "Nov",
+        "value": 14609962
+      },
+      {
+        "month": "Dec",
+        "value": 14974860
+      }
+    ],
+    "tags": [
+      "B2C",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-15",
+    "name": "Ekam Technologies",
+    "tagline": "Biotech company building for Jaipur and beyond",
+    "industry": "Biotech",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 26.56,
+    "investmentAsk": 35000000,
+    "raisedSoFar": 6650000,
+    "minTicket": 40000,
+    "investorsCount": 19,
+    "foundedYear": 2022,
+    "city": "Jaipur",
+    "description": "Ekam Technologies is a series a-stage biotech company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2022, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 6118000,
+      "expenses": 4389000,
+      "valuation": 178150000,
+      "burnRateMonthly": 133000
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 26.6
+      },
+      {
+        "year": "Y2",
+        "projected": 35.9
+      },
+      {
+        "year": "Y3",
+        "projected": 45.2
+      },
+      {
+        "year": "Y4",
+        "projected": 54.4
+      },
+      {
+        "year": "Y5",
+        "projected": 63.7
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Technology obsolescence",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1928500
+      },
+      {
+        "month": "Feb",
+        "value": 2285182
+      },
+      {
+        "month": "Mar",
+        "value": 2641864
+      },
+      {
+        "month": "Apr",
+        "value": 3397545
+      },
+      {
+        "month": "May",
+        "value": 3621227
+      },
+      {
+        "month": "Jun",
+        "value": 4177409
+      },
+      {
+        "month": "Jul",
+        "value": 4667091
+      },
+      {
+        "month": "Aug",
+        "value": 5156773
+      },
+      {
+        "month": "Sep",
+        "value": 5446955
+      },
+      {
+        "month": "Oct",
+        "value": 5870136
+      },
+      {
+        "month": "Nov",
+        "value": 6226818
+      },
+      {
+        "month": "Dec",
+        "value": 6783000
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-16",
+    "name": "Indus Ventures",
+    "tagline": "Manufacturing company building for Kochi and beyond",
+    "industry": "Manufacturing",
+    "stage": "Seed",
+    "risk": "Medium",
+    "roi": 34.73,
+    "investmentAsk": 10000000,
+    "raisedSoFar": 3700000,
+    "minTicket": 70000,
+    "investorsCount": 98,
+    "foundedYear": 2021,
+    "city": "Kochi",
+    "description": "Indus Ventures is a seed-stage manufacturing company headquartered in Kochi, focused on scalable, technology-first growth. Founded in 2021, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 3552000,
+      "expenses": 2220000,
+      "valuation": 108600000,
+      "burnRateMonthly": 222000
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 34.7
+      },
+      {
+        "year": "Y2",
+        "projected": 46.9
+      },
+      {
+        "year": "Y3",
+        "projected": 59
+      },
+      {
+        "year": "Y4",
+        "projected": 71.2
+      },
+      {
+        "year": "Y5",
+        "projected": 83.4
+      }
+    ],
+    "riskFactors": [
+      "Supply chain dependency",
+      "Customer concentration",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 999000
+      },
+      {
+        "month": "Feb",
+        "value": 1419455
+      },
+      {
+        "month": "Mar",
+        "value": 1580909
+      },
+      {
+        "month": "Apr",
+        "value": 1816364
+      },
+      {
+        "month": "May",
+        "value": 2125818
+      },
+      {
+        "month": "Jun",
+        "value": 2250273
+      },
+      {
+        "month": "Jul",
+        "value": 2596727
+      },
+      {
+        "month": "Aug",
+        "value": 2684182
+      },
+      {
+        "month": "Sep",
+        "value": 2993636
+      },
+      {
+        "month": "Oct",
+        "value": 3340091
+      },
+      {
+        "month": "Nov",
+        "value": 3501545
+      },
+      {
+        "month": "Dec",
+        "value": 3626000
+      }
+    ],
+    "tags": [
+      "B2C",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-17",
+    "name": "Nova Works",
+    "tagline": "Fintech company building for Chennai and beyond",
+    "industry": "Fintech",
+    "stage": "Series C",
+    "risk": "Medium",
+    "roi": 8.87,
+    "investmentAsk": 35500000,
+    "raisedSoFar": 24850000,
+    "minTicket": 60000,
+    "investorsCount": 46,
+    "foundedYear": 2014,
+    "city": "Chennai",
+    "description": "Nova Works is a series c-stage fintech company headquartered in Chennai, focused on scalable, technology-first growth. Founded in 2014, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 14413000,
+      "expenses": 17146500,
+      "valuation": 246370000,
+      "burnRateMonthly": 745500
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 8.9
+      },
+      {
+        "year": "Y2",
+        "projected": 12
+      },
+      {
+        "year": "Y3",
+        "projected": 15.1
+      },
+      {
+        "year": "Y4",
+        "projected": 18.2
+      },
+      {
+        "year": "Y5",
+        "projected": 21.3
+      }
+    ],
+    "riskFactors": [
+      "Founder dependency",
+      "Technology obsolescence",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 7952000
+      },
+      {
+        "month": "Feb",
+        "value": 9781864
+      },
+      {
+        "month": "Mar",
+        "value": 10866227
+      },
+      {
+        "month": "Apr",
+        "value": 12696091
+      },
+      {
+        "month": "May",
+        "value": 13034955
+      },
+      {
+        "month": "Jun",
+        "value": 15113318
+      },
+      {
+        "month": "Jul",
+        "value": 16694682
+      },
+      {
+        "month": "Aug",
+        "value": 18524545
+      },
+      {
+        "month": "Sep",
+        "value": 20851409
+      },
+      {
+        "month": "Oct",
+        "value": 21935773
+      },
+      {
+        "month": "Nov",
+        "value": 22771636
+      },
+      {
+        "month": "Dec",
+        "value": 24850000
+      }
+    ],
+    "tags": [
+      "B2C",
+      "Recurring revenue"
+    ]
+  },
+  {
+    "id": "deal-18",
+    "name": "Anant Ventures",
+    "tagline": "Mobility company building for Pune and beyond",
+    "industry": "Mobility",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 44.19,
+    "investmentAsk": 40300000,
+    "raisedSoFar": 32240000,
+    "minTicket": 60000,
+    "investorsCount": 17,
+    "foundedYear": 2013,
+    "city": "Pune",
+    "description": "Anant Ventures is a series a-stage mobility company headquartered in Pune, focused on scalable, technology-first growth. Founded in 2013, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 26759200,
+      "expenses": 24502400,
+      "valuation": 315146000,
+      "burnRateMonthly": 2256800
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 44.2
+      },
+      {
+        "year": "Y2",
+        "projected": 59.7
+      },
+      {
+        "year": "Y3",
+        "projected": 75.1
+      },
+      {
+        "year": "Y4",
+        "projected": 90.6
+      },
+      {
+        "year": "Y5",
+        "projected": 106.1
+      }
+    ],
+    "riskFactors": [
+      "Founder dependency",
+      "Execution risk",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 9349600
+      },
+      {
+        "month": "Feb",
+        "value": 12368436
+      },
+      {
+        "month": "Mar",
+        "value": 13130473
+      },
+      {
+        "month": "Apr",
+        "value": 16149309
+      },
+      {
+        "month": "May",
+        "value": 17878545
+      },
+      {
+        "month": "Jun",
+        "value": 20252582
+      },
+      {
+        "month": "Jul",
+        "value": 21981818
+      },
+      {
+        "month": "Aug",
+        "value": 23066255
+      },
+      {
+        "month": "Sep",
+        "value": 26729891
+      },
+      {
+        "month": "Oct",
+        "value": 28136727
+      },
+      {
+        "month": "Nov",
+        "value": 31155564
+      },
+      {
+        "month": "Dec",
+        "value": 32884800
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-19",
+    "name": "Trishul Works",
+    "tagline": "AI/ML company building for Jaipur and beyond",
+    "industry": "AI/ML",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 44.94,
+    "investmentAsk": 39300000,
+    "raisedSoFar": 8253000,
+    "minTicket": 30000,
+    "investorsCount": 67,
+    "foundedYear": 2016,
+    "city": "Jaipur",
+    "description": "Trishul Works is a series a-stage ai/ml company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2016, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 8500590,
+      "expenses": 4786740,
+      "valuation": 435837000,
+      "burnRateMonthly": 577710
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 44.9
+      },
+      {
+        "year": "Y2",
+        "projected": 60.7
+      },
+      {
+        "year": "Y3",
+        "projected": 76.4
+      },
+      {
+        "year": "Y4",
+        "projected": 92.1
+      },
+      {
+        "year": "Y5",
+        "projected": 107.9
+      }
+    ],
+    "riskFactors": [
+      "Founder dependency",
+      "Regulatory changes",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2228310
+      },
+      {
+        "month": "Feb",
+        "value": 3166151
+      },
+      {
+        "month": "Mar",
+        "value": 3691342
+      },
+      {
+        "month": "Apr",
+        "value": 4051473
+      },
+      {
+        "month": "May",
+        "value": 4824254
+      },
+      {
+        "month": "Jun",
+        "value": 4854265
+      },
+      {
+        "month": "Jul",
+        "value": 5792105
+      },
+      {
+        "month": "Aug",
+        "value": 6317296
+      },
+      {
+        "month": "Sep",
+        "value": 6677427
+      },
+      {
+        "month": "Oct",
+        "value": 7202618
+      },
+      {
+        "month": "Nov",
+        "value": 7810339
+      },
+      {
+        "month": "Dec",
+        "value": 8418060
+      }
+    ],
+    "tags": [
+      "B2B",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-20",
+    "name": "Kite Networks",
+    "tagline": "AI/ML company building for Pune and beyond",
+    "industry": "AI/ML",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 10.63,
+    "investmentAsk": 20300000,
+    "raisedSoFar": 5684000,
+    "minTicket": 90000,
+    "investorsCount": 34,
+    "foundedYear": 2018,
+    "city": "Pune",
+    "description": "Kite Networks is a series a-stage ai/ml company headquartered in Pune, focused on scalable, technology-first growth. Founded in 2018, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 4945080,
+      "expenses": 1705200,
+      "valuation": 179249000,
+      "burnRateMonthly": 341040
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 10.6
+      },
+      {
+        "year": "Y2",
+        "projected": 14.4
+      },
+      {
+        "year": "Y3",
+        "projected": 18.1
+      },
+      {
+        "year": "Y4",
+        "projected": 21.8
+      },
+      {
+        "year": "Y5",
+        "projected": 25.5
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Founder dependency",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1705200
+      },
+      {
+        "month": "Feb",
+        "value": 1953229
+      },
+      {
+        "month": "Mar",
+        "value": 2599138
+      },
+      {
+        "month": "Apr",
+        "value": 2790327
+      },
+      {
+        "month": "May",
+        "value": 3208876
+      },
+      {
+        "month": "Jun",
+        "value": 3570585
+      },
+      {
+        "month": "Jul",
+        "value": 4045975
+      },
+      {
+        "month": "Aug",
+        "value": 4066644
+      },
+      {
+        "month": "Sep",
+        "value": 4428353
+      },
+      {
+        "month": "Oct",
+        "value": 5074262
+      },
+      {
+        "month": "Nov",
+        "value": 5265451
+      },
+      {
+        "month": "Dec",
+        "value": 5740840
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-21",
+    "name": "Ekam Systems",
+    "tagline": "Agritech company building for Ahmedabad and beyond",
+    "industry": "Agritech",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 23.9,
+    "investmentAsk": 41200000,
+    "raisedSoFar": 34608000,
+    "minTicket": 50000,
+    "investorsCount": 77,
+    "foundedYear": 2022,
+    "city": "Ahmedabad",
+    "description": "Ekam Systems is a growth-stage agritech company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2022, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 19034400,
+      "expenses": 30801120,
+      "valuation": 317240000,
+      "burnRateMonthly": 2076480
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 23.9
+      },
+      {
+        "year": "Y2",
+        "projected": 32.3
+      },
+      {
+        "year": "Y3",
+        "projected": 40.6
+      },
+      {
+        "year": "Y4",
+        "projected": 49
+      },
+      {
+        "year": "Y5",
+        "projected": 57.4
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Founder dependency",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 10036320
+      },
+      {
+        "month": "Feb",
+        "value": 12584727
+      },
+      {
+        "month": "Mar",
+        "value": 14094895
+      },
+      {
+        "month": "Apr",
+        "value": 16643302
+      },
+      {
+        "month": "May",
+        "value": 19883869
+      },
+      {
+        "month": "Jun",
+        "value": 21740116
+      },
+      {
+        "month": "Jul",
+        "value": 23596364
+      },
+      {
+        "month": "Aug",
+        "value": 25106531
+      },
+      {
+        "month": "Sep",
+        "value": 27308858
+      },
+      {
+        "month": "Oct",
+        "value": 30549425
+      },
+      {
+        "month": "Nov",
+        "value": 31367433
+      },
+      {
+        "month": "Dec",
+        "value": 34608000
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-22",
+    "name": "Trishul Dynamics",
+    "tagline": "Manufacturing company building for Mumbai and beyond",
+    "industry": "Manufacturing",
+    "stage": "Series A",
+    "risk": "Medium",
+    "roi": 44.95,
+    "investmentAsk": 4800000,
+    "raisedSoFar": 4416000,
+    "minTicket": 100000,
+    "investorsCount": 116,
+    "foundedYear": 2019,
+    "city": "Mumbai",
+    "description": "Trishul Dynamics is a series a-stage manufacturing company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2019, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 2031360,
+      "expenses": 883200,
+      "valuation": 38064000,
+      "burnRateMonthly": 132480
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 45
+      },
+      {
+        "year": "Y2",
+        "projected": 60.7
+      },
+      {
+        "year": "Y3",
+        "projected": 76.4
+      },
+      {
+        "year": "Y4",
+        "projected": 92.1
+      },
+      {
+        "year": "Y5",
+        "projected": 107.9
+      }
+    ],
+    "riskFactors": [
+      "Technology obsolescence",
+      "Customer concentration",
+      "Market competition"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1413120
+      },
+      {
+        "month": "Feb",
+        "value": 1694138
+      },
+      {
+        "month": "Mar",
+        "value": 1930996
+      },
+      {
+        "month": "Apr",
+        "value": 2167855
+      },
+      {
+        "month": "May",
+        "value": 2360553
+      },
+      {
+        "month": "Jun",
+        "value": 2685731
+      },
+      {
+        "month": "Jul",
+        "value": 3010909
+      },
+      {
+        "month": "Aug",
+        "value": 3336087
+      },
+      {
+        "month": "Sep",
+        "value": 3705425
+      },
+      {
+        "month": "Oct",
+        "value": 3721484
+      },
+      {
+        "month": "Nov",
+        "value": 4267462
+      },
+      {
+        "month": "Dec",
+        "value": 4504320
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-23",
+    "name": "Vertex Networks",
+    "tagline": "Real Estate company building for Ahmedabad and beyond",
+    "industry": "Real Estate",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 36.48,
+    "investmentAsk": 35800000,
+    "raisedSoFar": 30430000,
+    "minTicket": 20000,
+    "investorsCount": 43,
+    "foundedYear": 2021,
+    "city": "Ahmedabad",
+    "description": "Vertex Networks is a growth-stage real estate company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2021, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 20996700,
+      "expenses": 12476300,
+      "valuation": 420292000,
+      "burnRateMonthly": 2130100
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 36.5
+      },
+      {
+        "year": "Y2",
+        "projected": 49.2
+      },
+      {
+        "year": "Y3",
+        "projected": 62
+      },
+      {
+        "year": "Y4",
+        "projected": 74.8
+      },
+      {
+        "year": "Y5",
+        "projected": 87.6
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Supply chain dependency",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 8824700
+      },
+      {
+        "month": "Feb",
+        "value": 11065455
+      },
+      {
+        "month": "Mar",
+        "value": 13306209
+      },
+      {
+        "month": "Apr",
+        "value": 14634064
+      },
+      {
+        "month": "May",
+        "value": 17787718
+      },
+      {
+        "month": "Jun",
+        "value": 18202673
+      },
+      {
+        "month": "Jul",
+        "value": 19834827
+      },
+      {
+        "month": "Aug",
+        "value": 22075582
+      },
+      {
+        "month": "Sep",
+        "value": 25229236
+      },
+      {
+        "month": "Oct",
+        "value": 27165691
+      },
+      {
+        "month": "Nov",
+        "value": 27580645
+      },
+      {
+        "month": "Dec",
+        "value": 30430000
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-24",
+    "name": "Astra Networks",
+    "tagline": "Agritech company building for Delhi NCR and beyond",
+    "industry": "Agritech",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 40.1,
+    "investmentAsk": 34300000,
+    "raisedSoFar": 21609000,
+    "minTicket": 10000,
+    "investorsCount": 78,
+    "foundedYear": 2013,
+    "city": "Delhi NCR",
+    "description": "Astra Networks is a series a-stage agritech company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2013, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 9940140,
+      "expenses": 17071110,
+      "valuation": 144060000,
+      "burnRateMonthly": 1080450
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 40.1
+      },
+      {
+        "year": "Y2",
+        "projected": 54.1
+      },
+      {
+        "year": "Y3",
+        "projected": 68.2
+      },
+      {
+        "year": "Y4",
+        "projected": 82.2
+      },
+      {
+        "year": "Y5",
+        "projected": 96.2
+      }
+    ],
+    "riskFactors": [
+      "Supply chain dependency",
+      "Execution risk",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 6482700
+      },
+      {
+        "month": "Feb",
+        "value": 7425638
+      },
+      {
+        "month": "Mar",
+        "value": 9016846
+      },
+      {
+        "month": "Apr",
+        "value": 10824145
+      },
+      {
+        "month": "May",
+        "value": 11983173
+      },
+      {
+        "month": "Jun",
+        "value": 13790471
+      },
+      {
+        "month": "Jul",
+        "value": 14517319
+      },
+      {
+        "month": "Aug",
+        "value": 16540707
+      },
+      {
+        "month": "Sep",
+        "value": 17267555
+      },
+      {
+        "month": "Oct",
+        "value": 18858764
+      },
+      {
+        "month": "Nov",
+        "value": 20449972
+      },
+      {
+        "month": "Dec",
+        "value": 21609000
+      }
+    ],
+    "tags": [
+      "B2C",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-25",
+    "name": "Ekam Works",
+    "tagline": "Logistics company building for Ahmedabad and beyond",
+    "industry": "Logistics",
+    "stage": "Series B",
+    "risk": "Medium",
+    "roi": 19.91,
+    "investmentAsk": 3100000,
+    "raisedSoFar": 2201000,
+    "minTicket": 90000,
+    "investorsCount": 13,
+    "foundedYear": 2023,
+    "city": "Ahmedabad",
+    "description": "Ekam Works is a series b-stage logistics company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2023, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 2002910,
+      "expenses": 550250,
+      "valuation": 17360000,
+      "burnRateMonthly": 176080
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 19.9
+      },
+      {
+        "year": "Y2",
+        "projected": 26.9
+      },
+      {
+        "year": "Y3",
+        "projected": 33.8
+      },
+      {
+        "year": "Y4",
+        "projected": 40.8
+      },
+      {
+        "year": "Y5",
+        "projected": 47.8
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Supply chain dependency",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 638290
+      },
+      {
+        "month": "Feb",
+        "value": 844384
+      },
+      {
+        "month": "Mar",
+        "value": 896407
+      },
+      {
+        "month": "Apr",
+        "value": 1102501
+      },
+      {
+        "month": "May",
+        "value": 1176535
+      },
+      {
+        "month": "Jun",
+        "value": 1382628
+      },
+      {
+        "month": "Jul",
+        "value": 1544702
+      },
+      {
+        "month": "Aug",
+        "value": 1640745
+      },
+      {
+        "month": "Sep",
+        "value": 1824829
+      },
+      {
+        "month": "Oct",
+        "value": 1920873
+      },
+      {
+        "month": "Nov",
+        "value": 2126966
+      },
+      {
+        "month": "Dec",
+        "value": 2267030
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-26",
+    "name": "Vertex Labs",
+    "tagline": "Clean Energy company building for Jaipur and beyond",
+    "industry": "Clean Energy",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 42.29,
+    "investmentAsk": 38700000,
+    "raisedSoFar": 34830000,
+    "minTicket": 50000,
+    "investorsCount": 61,
+    "foundedYear": 2023,
+    "city": "Jaipur",
+    "description": "Vertex Labs is a growth-stage clean energy company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2023, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 29605500,
+      "expenses": 28212300,
+      "valuation": 256581000,
+      "burnRateMonthly": 1741500
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 42.3
+      },
+      {
+        "year": "Y2",
+        "projected": 57.1
+      },
+      {
+        "year": "Y3",
+        "projected": 71.9
+      },
+      {
+        "year": "Y4",
+        "projected": 86.7
+      },
+      {
+        "year": "Y5",
+        "projected": 101.5
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Customer concentration",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 10449000
+      },
+      {
+        "month": "Feb",
+        "value": 13362055
+      },
+      {
+        "month": "Mar",
+        "value": 15926809
+      },
+      {
+        "month": "Apr",
+        "value": 16053464
+      },
+      {
+        "month": "May",
+        "value": 18966518
+      },
+      {
+        "month": "Jun",
+        "value": 22576173
+      },
+      {
+        "month": "Jul",
+        "value": 24096027
+      },
+      {
+        "month": "Aug",
+        "value": 25964182
+      },
+      {
+        "month": "Sep",
+        "value": 29225536
+      },
+      {
+        "month": "Oct",
+        "value": 30048791
+      },
+      {
+        "month": "Nov",
+        "value": 31916945
+      },
+      {
+        "month": "Dec",
+        "value": 34830000
+      }
+    ],
+    "tags": [
+      "B2B",
+      "B2C"
+    ]
+  },
+  {
+    "id": "deal-27",
+    "name": "Ganga Networks",
+    "tagline": "Media company building for Delhi NCR and beyond",
+    "industry": "Media",
+    "stage": "Series A",
+    "risk": "Medium",
+    "roi": 32.38,
+    "investmentAsk": 36800000,
+    "raisedSoFar": 5520000,
+    "minTicket": 90000,
+    "investorsCount": 102,
+    "foundedYear": 2021,
+    "city": "Delhi NCR",
+    "description": "Ganga Networks is a series a-stage media company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2021, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 3201600,
+      "expenses": 1656000,
+      "valuation": 356960000,
+      "burnRateMonthly": 165600
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 32.4
+      },
+      {
+        "year": "Y2",
+        "projected": 43.7
+      },
+      {
+        "year": "Y3",
+        "projected": 55
+      },
+      {
+        "year": "Y4",
+        "projected": 66.4
+      },
+      {
+        "year": "Y5",
+        "projected": 77.7
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Regulatory changes",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1711200
+      },
+      {
+        "month": "Feb",
+        "value": 2007273
+      },
+      {
+        "month": "Mar",
+        "value": 2358545
+      },
+      {
+        "month": "Apr",
+        "value": 2875418
+      },
+      {
+        "month": "May",
+        "value": 2950691
+      },
+      {
+        "month": "Jun",
+        "value": 3412364
+      },
+      {
+        "month": "Jul",
+        "value": 3929236
+      },
+      {
+        "month": "Aug",
+        "value": 3949309
+      },
+      {
+        "month": "Sep",
+        "value": 4355782
+      },
+      {
+        "month": "Oct",
+        "value": 4651855
+      },
+      {
+        "month": "Nov",
+        "value": 5223927
+      },
+      {
+        "month": "Dec",
+        "value": 5685600
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-28",
+    "name": "Terra Systems",
+    "tagline": "Healthtech company building for Chennai and beyond",
+    "industry": "Healthtech",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 25.85,
+    "investmentAsk": 31500000,
+    "raisedSoFar": 25200000,
+    "minTicket": 20000,
+    "investorsCount": 116,
+    "foundedYear": 2021,
+    "city": "Chennai",
+    "description": "Terra Systems is a growth-stage healthtech company headquartered in Chennai, focused on scalable, technology-first growth. Founded in 2021, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 26460000,
+      "expenses": 21672000,
+      "valuation": 168525000,
+      "burnRateMonthly": 756000
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 25.9
+      },
+      {
+        "year": "Y2",
+        "projected": 34.9
+      },
+      {
+        "year": "Y3",
+        "projected": 43.9
+      },
+      {
+        "year": "Y4",
+        "projected": 53
+      },
+      {
+        "year": "Y5",
+        "projected": 62
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Technology obsolescence",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 7308000
+      },
+      {
+        "month": "Feb",
+        "value": 8659636
+      },
+      {
+        "month": "Mar",
+        "value": 11271273
+      },
+      {
+        "month": "Apr",
+        "value": 11866909
+      },
+      {
+        "month": "May",
+        "value": 13722545
+      },
+      {
+        "month": "Jun",
+        "value": 15830182
+      },
+      {
+        "month": "Jul",
+        "value": 17181818
+      },
+      {
+        "month": "Aug",
+        "value": 18281455
+      },
+      {
+        "month": "Sep",
+        "value": 19885091
+      },
+      {
+        "month": "Oct",
+        "value": 21488727
+      },
+      {
+        "month": "Nov",
+        "value": 23596364
+      },
+      {
+        "month": "Dec",
+        "value": 25704000
+      }
+    ],
+    "tags": [
+      "High growth",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-29",
+    "name": "Prakash Solutions",
+    "tagline": "Manufacturing company building for Chennai and beyond",
+    "industry": "Manufacturing",
+    "stage": "Series A",
+    "risk": "Medium",
+    "roi": 27.34,
+    "investmentAsk": 7300000,
+    "raisedSoFar": 3358000,
+    "minTicket": 20000,
+    "investorsCount": 60,
+    "foundedYear": 2023,
+    "city": "Chennai",
+    "description": "Prakash Solutions is a series a-stage manufacturing company headquartered in Chennai, focused on scalable, technology-first growth. Founded in 2023, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 3022200,
+      "expenses": 2518500,
+      "valuation": 78913000,
+      "burnRateMonthly": 235060
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 27.3
+      },
+      {
+        "year": "Y2",
+        "projected": 36.9
+      },
+      {
+        "year": "Y3",
+        "projected": 46.5
+      },
+      {
+        "year": "Y4",
+        "projected": 56
+      },
+      {
+        "year": "Y5",
+        "projected": 65.6
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Market competition",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 906660
+      },
+      {
+        "month": "Feb",
+        "value": 1321831
+      },
+      {
+        "month": "Mar",
+        "value": 1535522
+      },
+      {
+        "month": "Apr",
+        "value": 1614893
+      },
+      {
+        "month": "May",
+        "value": 1761424
+      },
+      {
+        "month": "Jun",
+        "value": 2008695
+      },
+      {
+        "month": "Jul",
+        "value": 2255965
+      },
+      {
+        "month": "Aug",
+        "value": 2503236
+      },
+      {
+        "month": "Sep",
+        "value": 2649767
+      },
+      {
+        "month": "Oct",
+        "value": 2863458
+      },
+      {
+        "month": "Nov",
+        "value": 3144309
+      },
+      {
+        "month": "Dec",
+        "value": 3458740
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-30",
+    "name": "Orbit Systems",
+    "tagline": "Mobility company building for Bengaluru and beyond",
+    "industry": "Mobility",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 19.6,
+    "investmentAsk": 44500000,
+    "raisedSoFar": 11570000,
+    "minTicket": 10000,
+    "investorsCount": 7,
+    "foundedYear": 2020,
+    "city": "Bengaluru",
+    "description": "Orbit Systems is a series b-stage mobility company headquartered in Bengaluru, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 8446100,
+      "expenses": 8099000,
+      "valuation": 285690000,
+      "burnRateMonthly": 809900
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 19.6
+      },
+      {
+        "year": "Y2",
+        "projected": 26.5
+      },
+      {
+        "year": "Y3",
+        "projected": 33.3
+      },
+      {
+        "year": "Y4",
+        "projected": 40.2
+      },
+      {
+        "year": "Y5",
+        "projected": 47
+      }
+    ],
+    "riskFactors": [
+      "Supply chain dependency",
+      "Founder dependency",
+      "Execution risk"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 3123900
+      },
+      {
+        "month": "Feb",
+        "value": 4207273
+      },
+      {
+        "month": "Mar",
+        "value": 4943545
+      },
+      {
+        "month": "Apr",
+        "value": 6026918
+      },
+      {
+        "month": "May",
+        "value": 6300391
+      },
+      {
+        "month": "Jun",
+        "value": 6920964
+      },
+      {
+        "month": "Jul",
+        "value": 7772936
+      },
+      {
+        "month": "Aug",
+        "value": 8393509
+      },
+      {
+        "month": "Sep",
+        "value": 9476882
+      },
+      {
+        "month": "Oct",
+        "value": 10097455
+      },
+      {
+        "month": "Nov",
+        "value": 10949427
+      },
+      {
+        "month": "Dec",
+        "value": 11801400
+      }
+    ],
+    "tags": [
+      "B2B",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-31",
+    "name": "Prakash Technologies",
+    "tagline": "Fintech company building for Hyderabad and beyond",
+    "industry": "Fintech",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 29.86,
+    "investmentAsk": 48000000,
+    "raisedSoFar": 6240000,
+    "minTicket": 100000,
+    "investorsCount": 94,
+    "foundedYear": 2020,
+    "city": "Hyderabad",
+    "description": "Prakash Technologies is a growth-stage fintech company headquartered in Hyderabad, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 4368000,
+      "expenses": 4617600,
+      "valuation": 407520000,
+      "burnRateMonthly": 436800
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 29.9
+      },
+      {
+        "year": "Y2",
+        "projected": 40.3
+      },
+      {
+        "year": "Y3",
+        "projected": 50.8
+      },
+      {
+        "year": "Y4",
+        "projected": 61.2
+      },
+      {
+        "year": "Y5",
+        "projected": 71.7
+      }
+    ],
+    "riskFactors": [
+      "Founder dependency",
+      "Execution risk",
+      "Technology obsolescence"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1934400
+      },
+      {
+        "month": "Feb",
+        "value": 2206691
+      },
+      {
+        "month": "Mar",
+        "value": 2790982
+      },
+      {
+        "month": "Apr",
+        "value": 3063273
+      },
+      {
+        "month": "May",
+        "value": 3335564
+      },
+      {
+        "month": "Jun",
+        "value": 3919855
+      },
+      {
+        "month": "Jul",
+        "value": 4129745
+      },
+      {
+        "month": "Aug",
+        "value": 4589236
+      },
+      {
+        "month": "Sep",
+        "value": 5235927
+      },
+      {
+        "month": "Oct",
+        "value": 5383418
+      },
+      {
+        "month": "Nov",
+        "value": 5967709
+      },
+      {
+        "month": "Dec",
+        "value": 6115200
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-32",
+    "name": "Meru Dynamics",
+    "tagline": "Manufacturing company building for Jaipur and beyond",
+    "industry": "Manufacturing",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 43.27,
+    "investmentAsk": 12300000,
+    "raisedSoFar": 10209000,
+    "minTicket": 20000,
+    "investorsCount": 93,
+    "foundedYear": 2014,
+    "city": "Jaipur",
+    "description": "Meru Dynamics is a growth-stage manufacturing company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2014, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 5206590,
+      "expenses": 7452570,
+      "valuation": 66543000,
+      "burnRateMonthly": 408360
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 43.3
+      },
+      {
+        "year": "Y2",
+        "projected": 58.4
+      },
+      {
+        "year": "Y3",
+        "projected": 73.6
+      },
+      {
+        "year": "Y4",
+        "projected": 88.7
+      },
+      {
+        "year": "Y5",
+        "projected": 103.8
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Market competition",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2960610
+      },
+      {
+        "month": "Feb",
+        "value": 3814454
+      },
+      {
+        "month": "Mar",
+        "value": 4362027
+      },
+      {
+        "month": "Apr",
+        "value": 5011691
+      },
+      {
+        "month": "May",
+        "value": 5763445
+      },
+      {
+        "month": "Jun",
+        "value": 6004748
+      },
+      {
+        "month": "Jul",
+        "value": 6960682
+      },
+      {
+        "month": "Aug",
+        "value": 7814525
+      },
+      {
+        "month": "Sep",
+        "value": 7953739
+      },
+      {
+        "month": "Oct",
+        "value": 9113853
+      },
+      {
+        "month": "Nov",
+        "value": 9661426
+      },
+      {
+        "month": "Dec",
+        "value": 10311090
+      }
+    ],
+    "tags": [
+      "B2C",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-33",
+    "name": "Lumen Works",
+    "tagline": "E-commerce company building for Delhi NCR and beyond",
+    "industry": "E-commerce",
+    "stage": "Series C",
+    "risk": "Low",
+    "roi": 23.61,
+    "investmentAsk": 33100000,
+    "raisedSoFar": 18867000,
+    "minTicket": 50000,
+    "investorsCount": 118,
+    "foundedYear": 2023,
+    "city": "Delhi NCR",
+    "description": "Lumen Works is a series c-stage e-commerce company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2023, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 19055670,
+      "expenses": 4150740,
+      "valuation": 334972000,
+      "burnRateMonthly": 1132020
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 23.6
+      },
+      {
+        "year": "Y2",
+        "projected": 31.9
+      },
+      {
+        "year": "Y3",
+        "projected": 40.1
+      },
+      {
+        "year": "Y4",
+        "projected": 48.4
+      },
+      {
+        "year": "Y5",
+        "projected": 56.7
+      }
+    ],
+    "riskFactors": [
+      "Founder dependency",
+      "Supply chain dependency",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 5848770
+      },
+      {
+        "month": "Feb",
+        "value": 7238067
+      },
+      {
+        "month": "Mar",
+        "value": 8250025
+      },
+      {
+        "month": "Apr",
+        "value": 9073312
+      },
+      {
+        "month": "May",
+        "value": 10273939
+      },
+      {
+        "month": "Jun",
+        "value": 11663236
+      },
+      {
+        "month": "Jul",
+        "value": 12486524
+      },
+      {
+        "month": "Aug",
+        "value": 14064491
+      },
+      {
+        "month": "Sep",
+        "value": 14887778
+      },
+      {
+        "month": "Oct",
+        "value": 17031755
+      },
+      {
+        "month": "Nov",
+        "value": 17855043
+      },
+      {
+        "month": "Dec",
+        "value": 18867000
+      }
+    ],
+    "tags": [
+      "High growth",
+      "B2C"
+    ]
+  },
+  {
+    "id": "deal-34",
+    "name": "Anant Dynamics",
+    "tagline": "E-commerce company building for Kochi and beyond",
+    "industry": "E-commerce",
+    "stage": "Series C",
+    "risk": "Low",
+    "roi": 9.97,
+    "investmentAsk": 25200000,
+    "raisedSoFar": 11088000,
+    "minTicket": 40000,
+    "investorsCount": 14,
+    "foundedYear": 2015,
+    "city": "Kochi",
+    "description": "Anant Dynamics is a series c-stage e-commerce company headquartered in Kochi, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 9535680,
+      "expenses": 2439360,
+      "valuation": 272664000,
+      "burnRateMonthly": 443520
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 10
+      },
+      {
+        "year": "Y2",
+        "projected": 13.5
+      },
+      {
+        "year": "Y3",
+        "projected": 16.9
+      },
+      {
+        "year": "Y4",
+        "projected": 20.4
+      },
+      {
+        "year": "Y5",
+        "projected": 23.9
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Supply chain dependency",
+      "Execution risk"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 3548160
+      },
+      {
+        "month": "Feb",
+        "value": 4253760
+      },
+      {
+        "month": "Mar",
+        "value": 4515840
+      },
+      {
+        "month": "Apr",
+        "value": 5221440
+      },
+      {
+        "month": "May",
+        "value": 6148800
+      },
+      {
+        "month": "Jun",
+        "value": 6854400
+      },
+      {
+        "month": "Jul",
+        "value": 7560000
+      },
+      {
+        "month": "Aug",
+        "value": 8265600
+      },
+      {
+        "month": "Sep",
+        "value": 8860320
+      },
+      {
+        "month": "Oct",
+        "value": 9344160
+      },
+      {
+        "month": "Nov",
+        "value": 10271520
+      },
+      {
+        "month": "Dec",
+        "value": 11198880
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-35",
+    "name": "Meru Works",
+    "tagline": "SaaS company building for Jaipur and beyond",
+    "industry": "SaaS",
+    "stage": "Series B",
+    "risk": "Medium",
+    "roi": 23.83,
+    "investmentAsk": 16000000,
+    "raisedSoFar": 10880000,
+    "minTicket": 30000,
+    "investorsCount": 113,
+    "foundedYear": 2015,
+    "city": "Jaipur",
+    "description": "Meru Works is a series b-stage saas company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 12294400,
+      "expenses": 8268800,
+      "valuation": 132480000,
+      "burnRateMonthly": 435200
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 23.8
+      },
+      {
+        "year": "Y2",
+        "projected": 32.2
+      },
+      {
+        "year": "Y3",
+        "projected": 40.5
+      },
+      {
+        "year": "Y4",
+        "projected": 48.9
+      },
+      {
+        "year": "Y5",
+        "projected": 57.2
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Supply chain dependency",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 3155200
+      },
+      {
+        "month": "Feb",
+        "value": 4065164
+      },
+      {
+        "month": "Mar",
+        "value": 4757527
+      },
+      {
+        "month": "Apr",
+        "value": 5449891
+      },
+      {
+        "month": "May",
+        "value": 6251055
+      },
+      {
+        "month": "Jun",
+        "value": 6943418
+      },
+      {
+        "month": "Jul",
+        "value": 7635782
+      },
+      {
+        "month": "Aug",
+        "value": 8219345
+      },
+      {
+        "month": "Sep",
+        "value": 8911709
+      },
+      {
+        "month": "Oct",
+        "value": 9386473
+      },
+      {
+        "month": "Nov",
+        "value": 9970036
+      },
+      {
+        "month": "Dec",
+        "value": 10771200
+      }
+    ],
+    "tags": [
+      "B2B",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-36",
+    "name": "Meru Solutions",
+    "tagline": "Mobility company building for Pune and beyond",
+    "industry": "Mobility",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 16.07,
+    "investmentAsk": 3300000,
+    "raisedSoFar": 594000,
+    "minTicket": 70000,
+    "investorsCount": 19,
+    "foundedYear": 2019,
+    "city": "Pune",
+    "description": "Meru Solutions is a series a-stage mobility company headquartered in Pune, focused on scalable, technology-first growth. Founded in 2019, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 516780,
+      "expenses": 338580,
+      "valuation": 30921000,
+      "burnRateMonthly": 35640
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 16.1
+      },
+      {
+        "year": "Y2",
+        "projected": 21.7
+      },
+      {
+        "year": "Y3",
+        "projected": 27.3
+      },
+      {
+        "year": "Y4",
+        "projected": 32.9
+      },
+      {
+        "year": "Y5",
+        "projected": 38.6
+      }
+    ],
+    "riskFactors": [
+      "Regulatory changes",
+      "Cash flow timing",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 172260
+      },
+      {
+        "month": "Feb",
+        "value": 210060
+      },
+      {
+        "month": "Mar",
+        "value": 265680
+      },
+      {
+        "month": "Apr",
+        "value": 279720
+      },
+      {
+        "month": "May",
+        "value": 317520
+      },
+      {
+        "month": "Jun",
+        "value": 355320
+      },
+      {
+        "month": "Jul",
+        "value": 422820
+      },
+      {
+        "month": "Aug",
+        "value": 454680
+      },
+      {
+        "month": "Sep",
+        "value": 474660
+      },
+      {
+        "month": "Oct",
+        "value": 530280
+      },
+      {
+        "month": "Nov",
+        "value": 562140
+      },
+      {
+        "month": "Dec",
+        "value": 576180
+      }
+    ],
+    "tags": [
+      "B2C",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-37",
+    "name": "Nova Systems",
+    "tagline": "Biotech company building for Ahmedabad and beyond",
+    "industry": "Biotech",
+    "stage": "Series B",
+    "risk": "Medium",
+    "roi": 20.32,
+    "investmentAsk": 46100000,
+    "raisedSoFar": 5993000,
+    "minTicket": 10000,
+    "investorsCount": 63,
+    "foundedYear": 2021,
+    "city": "Ahmedabad",
+    "description": "Nova Systems is a series b-stage biotech company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2021, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 6052930,
+      "expenses": 5094050,
+      "valuation": 395538000,
+      "burnRateMonthly": 179790
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 20.3
+      },
+      {
+        "year": "Y2",
+        "projected": 27.4
+      },
+      {
+        "year": "Y3",
+        "projected": 34.5
+      },
+      {
+        "year": "Y4",
+        "projected": 41.7
+      },
+      {
+        "year": "Y5",
+        "projected": 48.8
+      }
+    ],
+    "riskFactors": [
+      "Supply chain dependency",
+      "Regulatory changes",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1977690
+      },
+      {
+        "month": "Feb",
+        "value": 2299133
+      },
+      {
+        "month": "Mar",
+        "value": 2440785
+      },
+      {
+        "month": "Apr",
+        "value": 2942018
+      },
+      {
+        "month": "May",
+        "value": 3203531
+      },
+      {
+        "month": "Jun",
+        "value": 3764694
+      },
+      {
+        "month": "Jul",
+        "value": 3906346
+      },
+      {
+        "month": "Aug",
+        "value": 4467509
+      },
+      {
+        "month": "Sep",
+        "value": 4848882
+      },
+      {
+        "month": "Oct",
+        "value": 5350115
+      },
+      {
+        "month": "Nov",
+        "value": 5791417
+      },
+      {
+        "month": "Dec",
+        "value": 6112860
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-38",
+    "name": "Kite Industries",
+    "tagline": "Edtech company building for Mumbai and beyond",
+    "industry": "Edtech",
+    "stage": "Seed",
+    "risk": "Low",
+    "roi": 11.11,
+    "investmentAsk": 35600000,
+    "raisedSoFar": 15664000,
+    "minTicket": 10000,
+    "investorsCount": 39,
+    "foundedYear": 2020,
+    "city": "Mumbai",
+    "description": "Kite Industries is a seed-stage edtech company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 15350720,
+      "expenses": 7362080,
+      "valuation": 181560000,
+      "burnRateMonthly": 1096480
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 11.1
+      },
+      {
+        "year": "Y2",
+        "projected": 15
+      },
+      {
+        "year": "Y3",
+        "projected": 18.9
+      },
+      {
+        "year": "Y4",
+        "projected": 22.8
+      },
+      {
+        "year": "Y5",
+        "projected": 26.7
+      }
+    ],
+    "riskFactors": [
+      "Regulatory changes",
+      "Market competition",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 4699200
+      },
+      {
+        "month": "Feb",
+        "value": 5696000
+      },
+      {
+        "month": "Mar",
+        "value": 6379520
+      },
+      {
+        "month": "Apr",
+        "value": 7846240
+      },
+      {
+        "month": "May",
+        "value": 8373120
+      },
+      {
+        "month": "Jun",
+        "value": 9683200
+      },
+      {
+        "month": "Jul",
+        "value": 10366720
+      },
+      {
+        "month": "Aug",
+        "value": 12146720
+      },
+      {
+        "month": "Sep",
+        "value": 13143520
+      },
+      {
+        "month": "Oct",
+        "value": 13200480
+      },
+      {
+        "month": "Nov",
+        "value": 14667200
+      },
+      {
+        "month": "Dec",
+        "value": 15507360
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-39",
+    "name": "Ganga Works",
+    "tagline": "AI/ML company building for Delhi NCR and beyond",
+    "industry": "AI/ML",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 13.56,
+    "investmentAsk": 14600000,
+    "raisedSoFar": 5256000,
+    "minTicket": 50000,
+    "investorsCount": 117,
+    "foundedYear": 2016,
+    "city": "Delhi NCR",
+    "description": "Ganga Works is a series b-stage ai/ml company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2016, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 4782960,
+      "expenses": 2575440,
+      "valuation": 162352000,
+      "burnRateMonthly": 262800
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 13.6
+      },
+      {
+        "year": "Y2",
+        "projected": 18.3
+      },
+      {
+        "year": "Y3",
+        "projected": 23.1
+      },
+      {
+        "year": "Y4",
+        "projected": 27.8
+      },
+      {
+        "year": "Y5",
+        "projected": 32.5
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Cash flow timing",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1471680
+      },
+      {
+        "month": "Feb",
+        "value": 1806153
+      },
+      {
+        "month": "Mar",
+        "value": 2350865
+      },
+      {
+        "month": "Apr",
+        "value": 2580218
+      },
+      {
+        "month": "May",
+        "value": 2967251
+      },
+      {
+        "month": "Jun",
+        "value": 3301724
+      },
+      {
+        "month": "Jul",
+        "value": 3531076
+      },
+      {
+        "month": "Aug",
+        "value": 4075789
+      },
+      {
+        "month": "Sep",
+        "value": 4147462
+      },
+      {
+        "month": "Oct",
+        "value": 4744735
+      },
+      {
+        "month": "Nov",
+        "value": 4868967
+      },
+      {
+        "month": "Dec",
+        "value": 5203440
+      }
+    ],
+    "tags": [
+      "B2C",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-40",
+    "name": "Vayu Solutions",
+    "tagline": "AI/ML company building for Mumbai and beyond",
+    "industry": "AI/ML",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 11.41,
+    "investmentAsk": 44600000,
+    "raisedSoFar": 10258000,
+    "minTicket": 100000,
+    "investorsCount": 116,
+    "foundedYear": 2016,
+    "city": "Mumbai",
+    "description": "Vayu Solutions is a growth-stage ai/ml company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2016, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 6975440,
+      "expenses": 3179980,
+      "valuation": 342082000,
+      "burnRateMonthly": 307740
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 11.4
+      },
+      {
+        "year": "Y2",
+        "projected": 15.4
+      },
+      {
+        "year": "Y3",
+        "projected": 19.4
+      },
+      {
+        "year": "Y4",
+        "projected": 23.4
+      },
+      {
+        "year": "Y5",
+        "projected": 27.4
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Technology obsolescence",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2769660
+      },
+      {
+        "month": "Feb",
+        "value": 3730182
+      },
+      {
+        "month": "Mar",
+        "value": 4485544
+      },
+      {
+        "month": "Apr",
+        "value": 5343485
+      },
+      {
+        "month": "May",
+        "value": 5893687
+      },
+      {
+        "month": "Jun",
+        "value": 6649049
+      },
+      {
+        "month": "Jul",
+        "value": 6788931
+      },
+      {
+        "month": "Aug",
+        "value": 7954613
+      },
+      {
+        "month": "Sep",
+        "value": 8402235
+      },
+      {
+        "month": "Oct",
+        "value": 8644696
+      },
+      {
+        "month": "Nov",
+        "value": 9912958
+      },
+      {
+        "month": "Dec",
+        "value": 10052840
+      }
+    ],
+    "tags": [
+      "Profitable",
+      "B2C"
+    ]
+  },
+  {
+    "id": "deal-41",
+    "name": "Zephyr Industries",
+    "tagline": "Healthtech company building for Mumbai and beyond",
+    "industry": "Healthtech",
+    "stage": "Seed",
+    "risk": "Medium",
+    "roi": 44.49,
+    "investmentAsk": 18200000,
+    "raisedSoFar": 5460000,
+    "minTicket": 70000,
+    "investorsCount": 31,
+    "foundedYear": 2024,
+    "city": "Mumbai",
+    "description": "Zephyr Industries is a seed-stage healthtech company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2024, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 5733000,
+      "expenses": 3767400,
+      "valuation": 123032000,
+      "burnRateMonthly": 163800
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 44.5
+      },
+      {
+        "year": "Y2",
+        "projected": 60.1
+      },
+      {
+        "year": "Y3",
+        "projected": 75.6
+      },
+      {
+        "year": "Y4",
+        "projected": 91.2
+      },
+      {
+        "year": "Y5",
+        "projected": 106.8
+      }
+    ],
+    "riskFactors": [
+      "Technology obsolescence",
+      "Market competition",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1638000
+      },
+      {
+        "month": "Feb",
+        "value": 1876255
+      },
+      {
+        "month": "Mar",
+        "value": 2332909
+      },
+      {
+        "month": "Apr",
+        "value": 2571164
+      },
+      {
+        "month": "May",
+        "value": 2973218
+      },
+      {
+        "month": "Jun",
+        "value": 3320673
+      },
+      {
+        "month": "Jul",
+        "value": 3722727
+      },
+      {
+        "month": "Aug",
+        "value": 3960982
+      },
+      {
+        "month": "Sep",
+        "value": 4363036
+      },
+      {
+        "month": "Oct",
+        "value": 4874291
+      },
+      {
+        "month": "Nov",
+        "value": 5057945
+      },
+      {
+        "month": "Dec",
+        "value": 5405400
+      }
+    ],
+    "tags": [
+      "B2B",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-42",
+    "name": "Lumen Solutions",
+    "tagline": "Real Estate company building for Jaipur and beyond",
+    "industry": "Real Estate",
+    "stage": "Seed",
+    "risk": "Low",
+    "roi": 23.32,
+    "investmentAsk": 11700000,
+    "raisedSoFar": 7956000,
+    "minTicket": 60000,
+    "investorsCount": 37,
+    "foundedYear": 2020,
+    "city": "Jaipur",
+    "description": "Lumen Solutions is a seed-stage real estate company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 7876440,
+      "expenses": 2864160,
+      "valuation": 120042000,
+      "burnRateMonthly": 397800
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 23.3
+      },
+      {
+        "year": "Y2",
+        "projected": 31.5
+      },
+      {
+        "year": "Y3",
+        "projected": 39.6
+      },
+      {
+        "year": "Y4",
+        "projected": 47.8
+      },
+      {
+        "year": "Y5",
+        "projected": 56
+      }
+    ],
+    "riskFactors": [
+      "Regulatory changes",
+      "Market competition",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2307240
+      },
+      {
+        "month": "Feb",
+        "value": 2893091
+      },
+      {
+        "month": "Mar",
+        "value": 3319822
+      },
+      {
+        "month": "Apr",
+        "value": 3826113
+      },
+      {
+        "month": "May",
+        "value": 4411964
+      },
+      {
+        "month": "Jun",
+        "value": 4997815
+      },
+      {
+        "month": "Jul",
+        "value": 5504105
+      },
+      {
+        "month": "Aug",
+        "value": 5930836
+      },
+      {
+        "month": "Sep",
+        "value": 6516687
+      },
+      {
+        "month": "Oct",
+        "value": 6943418
+      },
+      {
+        "month": "Nov",
+        "value": 7449709
+      },
+      {
+        "month": "Dec",
+        "value": 7876440
+      }
+    ],
+    "tags": [
+      "High growth",
+      "B2C"
+    ]
+  },
+  {
+    "id": "deal-43",
+    "name": "Trishul Innovations",
+    "tagline": "Fintech company building for Mumbai and beyond",
+    "industry": "Fintech",
+    "stage": "Series C",
+    "risk": "Low",
+    "roi": 25.14,
+    "investmentAsk": 25100000,
+    "raisedSoFar": 6275000,
+    "minTicket": 20000,
+    "investorsCount": 16,
+    "foundedYear": 2023,
+    "city": "Mumbai",
+    "description": "Trishul Innovations is a series c-stage fintech company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2023, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 6651500,
+      "expenses": 5082750,
+      "valuation": 289152000,
+      "burnRateMonthly": 251000
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 25.1
+      },
+      {
+        "year": "Y2",
+        "projected": 33.9
+      },
+      {
+        "year": "Y3",
+        "projected": 42.7
+      },
+      {
+        "year": "Y4",
+        "projected": 51.5
+      },
+      {
+        "year": "Y5",
+        "projected": 60.3
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Cash flow timing",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1757000
+      },
+      {
+        "month": "Feb",
+        "value": 2470068
+      },
+      {
+        "month": "Mar",
+        "value": 2806636
+      },
+      {
+        "month": "Apr",
+        "value": 3268705
+      },
+      {
+        "month": "May",
+        "value": 3479773
+      },
+      {
+        "month": "Jun",
+        "value": 4067341
+      },
+      {
+        "month": "Jul",
+        "value": 4466659
+      },
+      {
+        "month": "Aug",
+        "value": 4552227
+      },
+      {
+        "month": "Sep",
+        "value": 5077045
+      },
+      {
+        "month": "Oct",
+        "value": 5601864
+      },
+      {
+        "month": "Nov",
+        "value": 5750182
+      },
+      {
+        "month": "Dec",
+        "value": 6212250
+      }
+    ],
+    "tags": [
+      "Profitable",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-44",
+    "name": "Indus Solutions",
+    "tagline": "Fintech company building for Ahmedabad and beyond",
+    "industry": "Fintech",
+    "stage": "Seed",
+    "risk": "Low",
+    "roi": 30.91,
+    "investmentAsk": 2100000,
+    "raisedSoFar": 1722000,
+    "minTicket": 50000,
+    "investorsCount": 5,
+    "foundedYear": 2024,
+    "city": "Ahmedabad",
+    "description": "Indus Solutions is a seed-stage fintech company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2024, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 1567020,
+      "expenses": 1463700,
+      "valuation": 19320000,
+      "burnRateMonthly": 34440
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 30.9
+      },
+      {
+        "year": "Y2",
+        "projected": 41.7
+      },
+      {
+        "year": "Y3",
+        "projected": 52.5
+      },
+      {
+        "year": "Y4",
+        "projected": 63.4
+      },
+      {
+        "year": "Y5",
+        "projected": 74.2
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Supply chain dependency",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 551040
+      },
+      {
+        "month": "Feb",
+        "value": 591742
+      },
+      {
+        "month": "Mar",
+        "value": 770204
+      },
+      {
+        "month": "Apr",
+        "value": 828125
+      },
+      {
+        "month": "May",
+        "value": 903267
+      },
+      {
+        "month": "Jun",
+        "value": 1030069
+      },
+      {
+        "month": "Jul",
+        "value": 1225751
+      },
+      {
+        "month": "Aug",
+        "value": 1283673
+      },
+      {
+        "month": "Sep",
+        "value": 1376035
+      },
+      {
+        "month": "Oct",
+        "value": 1468396
+      },
+      {
+        "month": "Nov",
+        "value": 1646858
+      },
+      {
+        "month": "Dec",
+        "value": 1687560
+      }
+    ],
+    "tags": [
+      "B2C",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-45",
+    "name": "Kite Technologies",
+    "tagline": "Manufacturing company building for Mumbai and beyond",
+    "industry": "Manufacturing",
+    "stage": "Series B",
+    "risk": "Low",
+    "roi": 25.55,
+    "investmentAsk": 37500000,
+    "raisedSoFar": 25875000,
+    "minTicket": 50000,
+    "investorsCount": 84,
+    "foundedYear": 2018,
+    "city": "Mumbai",
+    "description": "Kite Technologies is a series b-stage manufacturing company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2018, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 20958750,
+      "expenses": 5692500,
+      "valuation": 337500000,
+      "burnRateMonthly": 1811250
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 25.6
+      },
+      {
+        "year": "Y2",
+        "projected": 34.5
+      },
+      {
+        "year": "Y3",
+        "projected": 43.4
+      },
+      {
+        "year": "Y4",
+        "projected": 52.4
+      },
+      {
+        "year": "Y5",
+        "projected": 61.3
+      }
+    ],
+    "riskFactors": [
+      "Technology obsolescence",
+      "Execution risk",
+      "Market competition"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 7762500
+      },
+      {
+        "month": "Feb",
+        "value": 9150341
+      },
+      {
+        "month": "Mar",
+        "value": 10538182
+      },
+      {
+        "month": "Apr",
+        "value": 13219773
+      },
+      {
+        "month": "May",
+        "value": 14090114
+      },
+      {
+        "month": "Jun",
+        "value": 15995455
+      },
+      {
+        "month": "Jul",
+        "value": 16865795
+      },
+      {
+        "month": "Aug",
+        "value": 19547386
+      },
+      {
+        "month": "Sep",
+        "value": 20417727
+      },
+      {
+        "month": "Oct",
+        "value": 23099318
+      },
+      {
+        "month": "Nov",
+        "value": 25004659
+      },
+      {
+        "month": "Dec",
+        "value": 25616250
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-46",
+    "name": "Terra Ventures",
+    "tagline": "Clean Energy company building for Ahmedabad and beyond",
+    "industry": "Clean Energy",
+    "stage": "Seed",
+    "risk": "Medium",
+    "roi": 8.66,
+    "investmentAsk": 23200000,
+    "raisedSoFar": 9976000,
+    "minTicket": 80000,
+    "investorsCount": 62,
+    "foundedYear": 2020,
+    "city": "Ahmedabad",
+    "description": "Terra Ventures is a seed-stage clean energy company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 7881040,
+      "expenses": 7681520,
+      "valuation": 213904000,
+      "burnRateMonthly": 399040
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 8.7
+      },
+      {
+        "year": "Y2",
+        "projected": 11.7
+      },
+      {
+        "year": "Y3",
+        "projected": 14.7
+      },
+      {
+        "year": "Y4",
+        "projected": 17.8
+      },
+      {
+        "year": "Y5",
+        "projected": 20.8
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Regulatory changes",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 3192320
+      },
+      {
+        "month": "Feb",
+        "value": 3428116
+      },
+      {
+        "month": "Mar",
+        "value": 4162713
+      },
+      {
+        "month": "Apr",
+        "value": 4697789
+      },
+      {
+        "month": "May",
+        "value": 5731665
+      },
+      {
+        "month": "Jun",
+        "value": 6366502
+      },
+      {
+        "month": "Jul",
+        "value": 6901578
+      },
+      {
+        "month": "Aug",
+        "value": 7336895
+      },
+      {
+        "month": "Sep",
+        "value": 8370771
+      },
+      {
+        "month": "Oct",
+        "value": 8905847
+      },
+      {
+        "month": "Nov",
+        "value": 9141644
+      },
+      {
+        "month": "Dec",
+        "value": 10275280
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "B2C"
+    ]
+  },
+  {
+    "id": "deal-47",
+    "name": "Nova Systems",
+    "tagline": "AI/ML company building for Pune and beyond",
+    "industry": "AI/ML",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 20.2,
+    "investmentAsk": 15100000,
+    "raisedSoFar": 12986000,
+    "minTicket": 50000,
+    "investorsCount": 25,
+    "foundedYear": 2020,
+    "city": "Pune",
+    "description": "Nova Systems is a series b-stage ai/ml company headquartered in Pune, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 9869360,
+      "expenses": 4545100,
+      "valuation": 94073000,
+      "burnRateMonthly": 649300
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 20.2
+      },
+      {
+        "year": "Y2",
+        "projected": 27.3
+      },
+      {
+        "year": "Y3",
+        "projected": 34.3
+      },
+      {
+        "year": "Y4",
+        "projected": 41.4
+      },
+      {
+        "year": "Y5",
+        "projected": 48.5
+      }
+    ],
+    "riskFactors": [
+      "Technology obsolescence",
+      "Cash flow timing",
+      "Execution risk"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 4025660
+      },
+      {
+        "month": "Feb",
+        "value": 4462462
+      },
+      {
+        "month": "Mar",
+        "value": 5158984
+      },
+      {
+        "month": "Apr",
+        "value": 6115225
+      },
+      {
+        "month": "May",
+        "value": 7590907
+      },
+      {
+        "month": "Jun",
+        "value": 8157569
+      },
+      {
+        "month": "Jul",
+        "value": 8464511
+      },
+      {
+        "month": "Aug",
+        "value": 9420753
+      },
+      {
+        "month": "Sep",
+        "value": 10247135
+      },
+      {
+        "month": "Oct",
+        "value": 11463096
+      },
+      {
+        "month": "Nov",
+        "value": 11899898
+      },
+      {
+        "month": "Dec",
+        "value": 12726280
+      }
+    ],
+    "tags": [
+      "Profitable",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-48",
+    "name": "Trishul Labs",
+    "tagline": "Real Estate company building for Delhi NCR and beyond",
+    "industry": "Real Estate",
+    "stage": "Series C",
+    "risk": "Low",
+    "roi": 9.78,
+    "investmentAsk": 25400000,
+    "raisedSoFar": 3048000,
+    "minTicket": 20000,
+    "investorsCount": 18,
+    "foundedYear": 2020,
+    "city": "Delhi NCR",
+    "description": "Trishul Labs is a series c-stage real estate company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 2042160,
+      "expenses": 2590800,
+      "valuation": 154940000,
+      "burnRateMonthly": 91440
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 9.8
+      },
+      {
+        "year": "Y2",
+        "projected": 13.2
+      },
+      {
+        "year": "Y3",
+        "projected": 16.6
+      },
+      {
+        "year": "Y4",
+        "projected": 20
+      },
+      {
+        "year": "Y5",
+        "projected": 23.5
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Technology obsolescence",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 822960
+      },
+      {
+        "month": "Feb",
+        "value": 1016924
+      },
+      {
+        "month": "Mar",
+        "value": 1271847
+      },
+      {
+        "month": "Apr",
+        "value": 1496291
+      },
+      {
+        "month": "May",
+        "value": 1720735
+      },
+      {
+        "month": "Jun",
+        "value": 1914698
+      },
+      {
+        "month": "Jul",
+        "value": 2078182
+      },
+      {
+        "month": "Aug",
+        "value": 2211185
+      },
+      {
+        "month": "Sep",
+        "value": 2405149
+      },
+      {
+        "month": "Oct",
+        "value": 2599113
+      },
+      {
+        "month": "Nov",
+        "value": 2823556
+      },
+      {
+        "month": "Dec",
+        "value": 2987040
+      }
+    ],
+    "tags": [
+      "B2B",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-49",
+    "name": "Vayu Systems",
+    "tagline": "Fintech company building for Kochi and beyond",
+    "industry": "Fintech",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 8.63,
+    "investmentAsk": 10900000,
+    "raisedSoFar": 1308000,
+    "minTicket": 40000,
+    "investorsCount": 5,
+    "foundedYear": 2022,
+    "city": "Kochi",
+    "description": "Vayu Systems is a growth-stage fintech company headquartered in Kochi, focused on scalable, technology-first growth. Founded in 2022, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 1151040,
+      "expenses": 523200,
+      "valuation": 83821000,
+      "burnRateMonthly": 52320
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 8.6
+      },
+      {
+        "year": "Y2",
+        "projected": 11.7
+      },
+      {
+        "year": "Y3",
+        "projected": 14.7
+      },
+      {
+        "year": "Y4",
+        "projected": 17.7
+      },
+      {
+        "year": "Y5",
+        "projected": 20.7
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Founder dependency",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 405480
+      },
+      {
+        "month": "Feb",
+        "value": 462556
+      },
+      {
+        "month": "Mar",
+        "value": 598113
+      },
+      {
+        "month": "Apr",
+        "value": 615949
+      },
+      {
+        "month": "May",
+        "value": 725345
+      },
+      {
+        "month": "Jun",
+        "value": 847822
+      },
+      {
+        "month": "Jul",
+        "value": 891818
+      },
+      {
+        "month": "Aug",
+        "value": 1014295
+      },
+      {
+        "month": "Sep",
+        "value": 1045211
+      },
+      {
+        "month": "Oct",
+        "value": 1167687
+      },
+      {
+        "month": "Nov",
+        "value": 1250924
+      },
+      {
+        "month": "Dec",
+        "value": 1294920
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-50",
+    "name": "Shakti Labs",
+    "tagline": "Consumer Goods company building for Mumbai and beyond",
+    "industry": "Consumer Goods",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 40.79,
+    "investmentAsk": 25700000,
+    "raisedSoFar": 19532000,
+    "minTicket": 40000,
+    "investorsCount": 87,
+    "foundedYear": 2020,
+    "city": "Mumbai",
+    "description": "Shakti Labs is a seed-stage consumer goods company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 18360080,
+      "expenses": 10156640,
+      "valuation": 294265000,
+      "burnRateMonthly": 1367240
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 40.8
+      },
+      {
+        "year": "Y2",
+        "projected": 55.1
+      },
+      {
+        "year": "Y3",
+        "projected": 69.3
+      },
+      {
+        "year": "Y4",
+        "projected": 83.6
+      },
+      {
+        "year": "Y5",
+        "projected": 97.9
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Cash flow timing",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 6054920
+      },
+      {
+        "month": "Feb",
+        "value": 7297865
+      },
+      {
+        "month": "Mar",
+        "value": 8736131
+      },
+      {
+        "month": "Apr",
+        "value": 9002476
+      },
+      {
+        "month": "May",
+        "value": 11026702
+      },
+      {
+        "month": "Jun",
+        "value": 12269647
+      },
+      {
+        "month": "Jul",
+        "value": 13512593
+      },
+      {
+        "month": "Aug",
+        "value": 14169578
+      },
+      {
+        "month": "Sep",
+        "value": 16193804
+      },
+      {
+        "month": "Oct",
+        "value": 17436749
+      },
+      {
+        "month": "Nov",
+        "value": 18484375
+      },
+      {
+        "month": "Dec",
+        "value": 19922640
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-51",
+    "name": "Lumen Innovations",
+    "tagline": "Mobility company building for Mumbai and beyond",
+    "industry": "Mobility",
+    "stage": "Series A",
+    "risk": "Medium",
+    "roi": 10.73,
+    "investmentAsk": 10100000,
+    "raisedSoFar": 6666000,
+    "minTicket": 40000,
+    "investorsCount": 50,
+    "foundedYear": 2013,
+    "city": "Mumbai",
+    "description": "Lumen Innovations is a series a-stage mobility company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2013, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 6332700,
+      "expenses": 3799620,
+      "valuation": 57772000,
+      "burnRateMonthly": 399960
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 10.7
+      },
+      {
+        "year": "Y2",
+        "projected": 14.5
+      },
+      {
+        "year": "Y3",
+        "projected": 18.2
+      },
+      {
+        "year": "Y4",
+        "projected": 22
+      },
+      {
+        "year": "Y5",
+        "projected": 25.8
+      }
+    ],
+    "riskFactors": [
+      "Regulatory changes",
+      "Supply chain dependency",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1999800
+      },
+      {
+        "month": "Feb",
+        "value": 2424000
+      },
+      {
+        "month": "Mar",
+        "value": 2781540
+      },
+      {
+        "month": "Apr",
+        "value": 3405720
+      },
+      {
+        "month": "May",
+        "value": 3563280
+      },
+      {
+        "month": "Jun",
+        "value": 4254120
+      },
+      {
+        "month": "Jul",
+        "value": 4611660
+      },
+      {
+        "month": "Aug",
+        "value": 5169180
+      },
+      {
+        "month": "Sep",
+        "value": 5460060
+      },
+      {
+        "month": "Oct",
+        "value": 6017580
+      },
+      {
+        "month": "Nov",
+        "value": 6041820
+      },
+      {
+        "month": "Dec",
+        "value": 6732660
+      }
+    ],
+    "tags": [
+      "B2B",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-52",
+    "name": "Meru Works",
+    "tagline": "Fintech company building for Bengaluru and beyond",
+    "industry": "Fintech",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 39.39,
+    "investmentAsk": 10900000,
+    "raisedSoFar": 4578000,
+    "minTicket": 30000,
+    "investorsCount": 88,
+    "foundedYear": 2021,
+    "city": "Bengaluru",
+    "description": "Meru Works is a growth-stage fintech company headquartered in Bengaluru, focused on scalable, technology-first growth. Founded in 2021, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 5035800,
+      "expenses": 3753960,
+      "valuation": 71286000,
+      "burnRateMonthly": 228900
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 39.4
+      },
+      {
+        "year": "Y2",
+        "projected": 53.2
+      },
+      {
+        "year": "Y3",
+        "projected": 67
+      },
+      {
+        "year": "Y4",
+        "projected": 80.7
+      },
+      {
+        "year": "Y5",
+        "projected": 94.5
+      }
+    ],
+    "riskFactors": [
+      "Regulatory changes",
+      "Market competition",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1419180
+      },
+      {
+        "month": "Feb",
+        "value": 1664727
+      },
+      {
+        "month": "Mar",
+        "value": 2093395
+      },
+      {
+        "month": "Apr",
+        "value": 2384722
+      },
+      {
+        "month": "May",
+        "value": 2447149
+      },
+      {
+        "month": "Jun",
+        "value": 2921596
+      },
+      {
+        "month": "Jul",
+        "value": 3258704
+      },
+      {
+        "month": "Aug",
+        "value": 3366911
+      },
+      {
+        "month": "Sep",
+        "value": 3612458
+      },
+      {
+        "month": "Oct",
+        "value": 4041125
+      },
+      {
+        "month": "Nov",
+        "value": 4286673
+      },
+      {
+        "month": "Dec",
+        "value": 4532220
+      }
+    ],
+    "tags": [
+      "B2C",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-53",
+    "name": "Vayu Dynamics",
+    "tagline": "Manufacturing company building for Kochi and beyond",
+    "industry": "Manufacturing",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 24.64,
+    "investmentAsk": 25900000,
+    "raisedSoFar": 3885000,
+    "minTicket": 30000,
+    "investorsCount": 108,
+    "foundedYear": 2015,
+    "city": "Kochi",
+    "description": "Vayu Dynamics is a series b-stage manufacturing company headquartered in Kochi, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 4040400,
+      "expenses": 1010100,
+      "valuation": 276094000,
+      "burnRateMonthly": 310800
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 24.6
+      },
+      {
+        "year": "Y2",
+        "projected": 33.3
+      },
+      {
+        "year": "Y3",
+        "projected": 41.9
+      },
+      {
+        "year": "Y4",
+        "projected": 50.5
+      },
+      {
+        "year": "Y5",
+        "projected": 59.1
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Technology obsolescence",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1126650
+      },
+      {
+        "month": "Feb",
+        "value": 1412727
+      },
+      {
+        "month": "Mar",
+        "value": 1621105
+      },
+      {
+        "month": "Apr",
+        "value": 2023732
+      },
+      {
+        "month": "May",
+        "value": 2115559
+      },
+      {
+        "month": "Jun",
+        "value": 2479336
+      },
+      {
+        "month": "Jul",
+        "value": 2687714
+      },
+      {
+        "month": "Aug",
+        "value": 2973791
+      },
+      {
+        "month": "Sep",
+        "value": 3143318
+      },
+      {
+        "month": "Oct",
+        "value": 3390545
+      },
+      {
+        "month": "Nov",
+        "value": 3637773
+      },
+      {
+        "month": "Dec",
+        "value": 4001550
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "B2C"
+    ]
+  },
+  {
+    "id": "deal-54",
+    "name": "Kite Industries",
+    "tagline": "Consumer Goods company building for Mumbai and beyond",
+    "industry": "Consumer Goods",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 29.93,
+    "investmentAsk": 29800000,
+    "raisedSoFar": 22648000,
+    "minTicket": 90000,
+    "investorsCount": 19,
+    "foundedYear": 2018,
+    "city": "Mumbai",
+    "description": "Kite Industries is a growth-stage consumer goods company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2018, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 19477280,
+      "expenses": 20156720,
+      "valuation": 169264000,
+      "burnRateMonthly": 1358880
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 29.9
+      },
+      {
+        "year": "Y2",
+        "projected": 40.4
+      },
+      {
+        "year": "Y3",
+        "projected": 50.9
+      },
+      {
+        "year": "Y4",
+        "projected": 61.4
+      },
+      {
+        "year": "Y5",
+        "projected": 71.8
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Regulatory changes",
+      "Execution risk"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 7020880
+      },
+      {
+        "month": "Feb",
+        "value": 7556196
+      },
+      {
+        "month": "Mar",
+        "value": 9450393
+      },
+      {
+        "month": "Apr",
+        "value": 10891629
+      },
+      {
+        "month": "May",
+        "value": 13012305
+      },
+      {
+        "month": "Jun",
+        "value": 14227062
+      },
+      {
+        "month": "Jul",
+        "value": 15441818
+      },
+      {
+        "month": "Aug",
+        "value": 16883055
+      },
+      {
+        "month": "Sep",
+        "value": 18777251
+      },
+      {
+        "month": "Oct",
+        "value": 20444967
+      },
+      {
+        "month": "Nov",
+        "value": 20980284
+      },
+      {
+        "month": "Dec",
+        "value": 22195040
+      }
+    ],
+    "tags": [
+      "High growth",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-55",
+    "name": "Meru Networks",
+    "tagline": "AI/ML company building for Kochi and beyond",
+    "industry": "AI/ML",
+    "stage": "Series C",
+    "risk": "Medium",
+    "roi": 40.61,
+    "investmentAsk": 1200000,
+    "raisedSoFar": 420000,
+    "minTicket": 10000,
+    "investorsCount": 16,
+    "foundedYear": 2021,
+    "city": "Kochi",
+    "description": "Meru Networks is a series c-stage ai/ml company headquartered in Kochi, focused on scalable, technology-first growth. Founded in 2021, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 264600,
+      "expenses": 193200,
+      "valuation": 5748000,
+      "burnRateMonthly": 16800
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 40.6
+      },
+      {
+        "year": "Y2",
+        "projected": 54.8
+      },
+      {
+        "year": "Y3",
+        "projected": 69
+      },
+      {
+        "year": "Y4",
+        "projected": 83.3
+      },
+      {
+        "year": "Y5",
+        "projected": 97.5
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Customer concentration",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 113400
+      },
+      {
+        "month": "Feb",
+        "value": 144327
+      },
+      {
+        "month": "Mar",
+        "value": 166855
+      },
+      {
+        "month": "Apr",
+        "value": 197782
+      },
+      {
+        "month": "May",
+        "value": 245509
+      },
+      {
+        "month": "Jun",
+        "value": 251236
+      },
+      {
+        "month": "Jul",
+        "value": 282164
+      },
+      {
+        "month": "Aug",
+        "value": 325691
+      },
+      {
+        "month": "Sep",
+        "value": 331418
+      },
+      {
+        "month": "Oct",
+        "value": 358145
+      },
+      {
+        "month": "Nov",
+        "value": 397473
+      },
+      {
+        "month": "Dec",
+        "value": 411600
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-56",
+    "name": "Vayu Dynamics",
+    "tagline": "Real Estate company building for Hyderabad and beyond",
+    "industry": "Real Estate",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 26.04,
+    "investmentAsk": 39400000,
+    "raisedSoFar": 9062000,
+    "minTicket": 20000,
+    "investorsCount": 83,
+    "foundedYear": 2017,
+    "city": "Hyderabad",
+    "description": "Vayu Dynamics is a growth-stage real estate company headquartered in Hyderabad, focused on scalable, technology-first growth. Founded in 2017, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 7249600,
+      "expenses": 3896660,
+      "valuation": 229308000,
+      "burnRateMonthly": 453100
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 26
+      },
+      {
+        "year": "Y2",
+        "projected": 35.2
+      },
+      {
+        "year": "Y3",
+        "projected": 44.3
+      },
+      {
+        "year": "Y4",
+        "projected": 53.4
+      },
+      {
+        "year": "Y5",
+        "projected": 62.5
+      }
+    ],
+    "riskFactors": [
+      "Founder dependency",
+      "Market competition",
+      "Technology obsolescence"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2627980
+      },
+      {
+        "month": "Feb",
+        "value": 3295273
+      },
+      {
+        "month": "Mar",
+        "value": 3690705
+      },
+      {
+        "month": "Apr",
+        "value": 4267378
+      },
+      {
+        "month": "May",
+        "value": 5206531
+      },
+      {
+        "month": "Jun",
+        "value": 5783204
+      },
+      {
+        "month": "Jul",
+        "value": 6088016
+      },
+      {
+        "month": "Aug",
+        "value": 6664689
+      },
+      {
+        "month": "Sep",
+        "value": 7513222
+      },
+      {
+        "month": "Oct",
+        "value": 7818035
+      },
+      {
+        "month": "Nov",
+        "value": 8213467
+      },
+      {
+        "month": "Dec",
+        "value": 8790140
+      }
+    ],
+    "tags": [
+      "B2B",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-57",
+    "name": "Indus Industries",
+    "tagline": "Agritech company building for Kolkata and beyond",
+    "industry": "Agritech",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 36.29,
+    "investmentAsk": 39400000,
+    "raisedSoFar": 30338000,
+    "minTicket": 80000,
+    "investorsCount": 77,
+    "foundedYear": 2020,
+    "city": "Kolkata",
+    "description": "Indus Industries is a series a-stage agritech company headquartered in Kolkata, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 12741960,
+      "expenses": 12438580,
+      "valuation": 298258000,
+      "burnRateMonthly": 2123660
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 36.3
+      },
+      {
+        "year": "Y2",
+        "projected": 49
+      },
+      {
+        "year": "Y3",
+        "projected": 61.7
+      },
+      {
+        "year": "Y4",
+        "projected": 74.4
+      },
+      {
+        "year": "Y5",
+        "projected": 87.1
+      }
+    ],
+    "riskFactors": [
+      "Technology obsolescence",
+      "Cash flow timing",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 9404780
+      },
+      {
+        "month": "Feb",
+        "value": 11335380
+      },
+      {
+        "month": "Mar",
+        "value": 13569360
+      },
+      {
+        "month": "Apr",
+        "value": 15196580
+      },
+      {
+        "month": "May",
+        "value": 17733940
+      },
+      {
+        "month": "Jun",
+        "value": 18147640
+      },
+      {
+        "month": "Jul",
+        "value": 20685000
+      },
+      {
+        "month": "Aug",
+        "value": 22918980
+      },
+      {
+        "month": "Sep",
+        "value": 25456340
+      },
+      {
+        "month": "Oct",
+        "value": 26173420
+      },
+      {
+        "month": "Nov",
+        "value": 28407400
+      },
+      {
+        "month": "Dec",
+        "value": 30641380
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-58",
+    "name": "Vayu Dynamics",
+    "tagline": "Edtech company building for Delhi NCR and beyond",
+    "industry": "Edtech",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 44.41,
+    "investmentAsk": 13700000,
+    "raisedSoFar": 6987000,
+    "minTicket": 30000,
+    "investorsCount": 32,
+    "foundedYear": 2021,
+    "city": "Delhi NCR",
+    "description": "Vayu Dynamics is a series b-stage edtech company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2021, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 3144150,
+      "expenses": 1537140,
+      "valuation": 107134000,
+      "burnRateMonthly": 489090
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 44.4
+      },
+      {
+        "year": "Y2",
+        "projected": 60
+      },
+      {
+        "year": "Y3",
+        "projected": 75.5
+      },
+      {
+        "year": "Y4",
+        "projected": 91
+      },
+      {
+        "year": "Y5",
+        "projected": 106.6
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Technology obsolescence",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2026230
+      },
+      {
+        "month": "Feb",
+        "value": 2750337
+      },
+      {
+        "month": "Mar",
+        "value": 3125095
+      },
+      {
+        "month": "Apr",
+        "value": 3429982
+      },
+      {
+        "month": "May",
+        "value": 3944479
+      },
+      {
+        "month": "Jun",
+        "value": 4249366
+      },
+      {
+        "month": "Jul",
+        "value": 4833734
+      },
+      {
+        "month": "Aug",
+        "value": 5068751
+      },
+      {
+        "month": "Sep",
+        "value": 5653118
+      },
+      {
+        "month": "Oct",
+        "value": 6167615
+      },
+      {
+        "month": "Nov",
+        "value": 6402633
+      },
+      {
+        "month": "Dec",
+        "value": 7056870
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Recurring revenue"
+    ]
+  },
+  {
+    "id": "deal-59",
+    "name": "Vayu Networks",
+    "tagline": "Media company building for Ahmedabad and beyond",
+    "industry": "Media",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 24.49,
+    "investmentAsk": 47300000,
+    "raisedSoFar": 19393000,
+    "minTicket": 60000,
+    "investorsCount": 88,
+    "foundedYear": 2013,
+    "city": "Ahmedabad",
+    "description": "Vayu Networks is a growth-stage media company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2013, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 9890430,
+      "expenses": 7369340,
+      "valuation": 439890000,
+      "burnRateMonthly": 1163580
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 24.5
+      },
+      {
+        "year": "Y2",
+        "projected": 33.1
+      },
+      {
+        "year": "Y3",
+        "projected": 41.6
+      },
+      {
+        "year": "Y4",
+        "projected": 50.2
+      },
+      {
+        "year": "Y5",
+        "projected": 58.8
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Market competition",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 5430040
+      },
+      {
+        "month": "Feb",
+        "value": 7052000
+      },
+      {
+        "month": "Mar",
+        "value": 8480030
+      },
+      {
+        "month": "Apr",
+        "value": 9714130
+      },
+      {
+        "month": "May",
+        "value": 11142160
+      },
+      {
+        "month": "Jun",
+        "value": 12376260
+      },
+      {
+        "month": "Jul",
+        "value": 12834640
+      },
+      {
+        "month": "Aug",
+        "value": 14844460
+      },
+      {
+        "month": "Sep",
+        "value": 15302840
+      },
+      {
+        "month": "Oct",
+        "value": 17312660
+      },
+      {
+        "month": "Nov",
+        "value": 18740690
+      },
+      {
+        "month": "Dec",
+        "value": 19005140
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-60",
+    "name": "Astra Networks",
+    "tagline": "Edtech company building for Delhi NCR and beyond",
+    "industry": "Edtech",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 10.06,
+    "investmentAsk": 21600000,
+    "raisedSoFar": 16848000,
+    "minTicket": 30000,
+    "investorsCount": 39,
+    "foundedYear": 2022,
+    "city": "Delhi NCR",
+    "description": "Astra Networks is a series b-stage edtech company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2022, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 11793600,
+      "expenses": 13983840,
+      "valuation": 230256000,
+      "burnRateMonthly": 842400
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 10.1
+      },
+      {
+        "year": "Y2",
+        "projected": 13.6
+      },
+      {
+        "year": "Y3",
+        "projected": 17.1
+      },
+      {
+        "year": "Y4",
+        "projected": 20.6
+      },
+      {
+        "year": "Y5",
+        "projected": 24.1
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Customer concentration",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 4885920
+      },
+      {
+        "month": "Feb",
+        "value": 5789585
+      },
+      {
+        "month": "Mar",
+        "value": 6861731
+      },
+      {
+        "month": "Apr",
+        "value": 8102356
+      },
+      {
+        "month": "May",
+        "value": 9679942
+      },
+      {
+        "month": "Jun",
+        "value": 10415127
+      },
+      {
+        "month": "Jul",
+        "value": 11824233
+      },
+      {
+        "month": "Aug",
+        "value": 12896378
+      },
+      {
+        "month": "Sep",
+        "value": 14137004
+      },
+      {
+        "month": "Oct",
+        "value": 14366749
+      },
+      {
+        "month": "Nov",
+        "value": 15944335
+      },
+      {
+        "month": "Dec",
+        "value": 17353440
+      }
+    ],
+    "tags": [
+      "Recurring revenue",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-61",
+    "name": "Lumen Innovations",
+    "tagline": "Clean Energy company building for Bengaluru and beyond",
+    "industry": "Clean Energy",
+    "stage": "Series C",
+    "risk": "Low",
+    "roi": 39.1,
+    "investmentAsk": 44400000,
+    "raisedSoFar": 38184000,
+    "minTicket": 70000,
+    "investorsCount": 43,
+    "foundedYear": 2023,
+    "city": "Bengaluru",
+    "description": "Lumen Innovations is a series c-stage clean energy company headquartered in Bengaluru, focused on scalable, technology-first growth. Founded in 2023, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 25965120,
+      "expenses": 32074560,
+      "valuation": 278388000,
+      "burnRateMonthly": 1145520
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 39.1
+      },
+      {
+        "year": "Y2",
+        "projected": 52.8
+      },
+      {
+        "year": "Y3",
+        "projected": 66.5
+      },
+      {
+        "year": "Y4",
+        "projected": 80.2
+      },
+      {
+        "year": "Y5",
+        "projected": 93.8
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Founder dependency",
+      "Market competition"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 10309680
+      },
+      {
+        "month": "Feb",
+        "value": 13121411
+      },
+      {
+        "month": "Mar",
+        "value": 17460502
+      },
+      {
+        "month": "Apr",
+        "value": 19126713
+      },
+      {
+        "month": "May",
+        "value": 21556604
+      },
+      {
+        "month": "Jun",
+        "value": 22840975
+      },
+      {
+        "month": "Jul",
+        "value": 26416385
+      },
+      {
+        "month": "Aug",
+        "value": 28464436
+      },
+      {
+        "month": "Sep",
+        "value": 30130647
+      },
+      {
+        "month": "Oct",
+        "value": 32560538
+      },
+      {
+        "month": "Nov",
+        "value": 34990429
+      },
+      {
+        "month": "Dec",
+        "value": 38565840
+      }
+    ],
+    "tags": [
+      "High growth",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-62",
+    "name": "Shakti Systems",
+    "tagline": "SaaS company building for Mumbai and beyond",
+    "industry": "SaaS",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 26.34,
+    "investmentAsk": 10200000,
+    "raisedSoFar": 6936000,
+    "minTicket": 60000,
+    "investorsCount": 105,
+    "foundedYear": 2015,
+    "city": "Mumbai",
+    "description": "Shakti Systems is a growth-stage saas company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 4993920,
+      "expenses": 3814800,
+      "valuation": 114342000,
+      "burnRateMonthly": 208080
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 26.3
+      },
+      {
+        "year": "Y2",
+        "projected": 35.6
+      },
+      {
+        "year": "Y3",
+        "projected": 44.8
+      },
+      {
+        "year": "Y4",
+        "projected": 54
+      },
+      {
+        "year": "Y5",
+        "projected": 63.2
+      }
+    ],
+    "riskFactors": [
+      "Technology obsolescence",
+      "Market competition",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2011440
+      },
+      {
+        "month": "Feb",
+        "value": 2591542
+      },
+      {
+        "month": "Mar",
+        "value": 3032924
+      },
+      {
+        "month": "Apr",
+        "value": 3543665
+      },
+      {
+        "month": "May",
+        "value": 3707607
+      },
+      {
+        "month": "Jun",
+        "value": 4287709
+      },
+      {
+        "month": "Jul",
+        "value": 4590371
+      },
+      {
+        "month": "Aug",
+        "value": 5309193
+      },
+      {
+        "month": "Sep",
+        "value": 5473135
+      },
+      {
+        "month": "Oct",
+        "value": 6122596
+      },
+      {
+        "month": "Nov",
+        "value": 6633338
+      },
+      {
+        "month": "Dec",
+        "value": 6797280
+      }
+    ],
+    "tags": [
+      "High growth",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-63",
+    "name": "Indus Networks",
+    "tagline": "Logistics company building for Ahmedabad and beyond",
+    "industry": "Logistics",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 13.87,
+    "investmentAsk": 14000000,
+    "raisedSoFar": 9100000,
+    "minTicket": 50000,
+    "investorsCount": 81,
+    "foundedYear": 2013,
+    "city": "Ahmedabad",
+    "description": "Indus Networks is a growth-stage logistics company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2013, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 6734000,
+      "expenses": 3549000,
+      "valuation": 105420000,
+      "burnRateMonthly": 182000
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 13.9
+      },
+      {
+        "year": "Y2",
+        "projected": 18.7
+      },
+      {
+        "year": "Y3",
+        "projected": 23.6
+      },
+      {
+        "year": "Y4",
+        "projected": 28.4
+      },
+      {
+        "year": "Y5",
+        "projected": 33.3
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Regulatory changes",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2548000
+      },
+      {
+        "month": "Feb",
+        "value": 3127091
+      },
+      {
+        "month": "Mar",
+        "value": 4070182
+      },
+      {
+        "month": "Apr",
+        "value": 4649273
+      },
+      {
+        "month": "May",
+        "value": 5228364
+      },
+      {
+        "month": "Jun",
+        "value": 5716455
+      },
+      {
+        "month": "Jul",
+        "value": 6022545
+      },
+      {
+        "month": "Aug",
+        "value": 6874636
+      },
+      {
+        "month": "Sep",
+        "value": 7271727
+      },
+      {
+        "month": "Oct",
+        "value": 7850818
+      },
+      {
+        "month": "Nov",
+        "value": 8702909
+      },
+      {
+        "month": "Dec",
+        "value": 9100000
+      }
+    ],
+    "tags": [
+      "High growth",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-64",
+    "name": "Sahaj Industries",
+    "tagline": "Real Estate company building for Delhi NCR and beyond",
+    "industry": "Real Estate",
+    "stage": "Series B",
+    "risk": "Low",
+    "roi": 39.97,
+    "investmentAsk": 33500000,
+    "raisedSoFar": 31490000,
+    "minTicket": 40000,
+    "investorsCount": 64,
+    "foundedYear": 2019,
+    "city": "Delhi NCR",
+    "description": "Sahaj Industries is a series b-stage real estate company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2019, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 24877100,
+      "expenses": 7242700,
+      "valuation": 350745000,
+      "burnRateMonthly": 1889400
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 40
+      },
+      {
+        "year": "Y2",
+        "projected": 54
+      },
+      {
+        "year": "Y3",
+        "projected": 67.9
+      },
+      {
+        "year": "Y4",
+        "projected": 81.9
+      },
+      {
+        "year": "Y5",
+        "projected": 95.9
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Founder dependency",
+      "Market competition"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 9447000
+      },
+      {
+        "month": "Feb",
+        "value": 12080709
+      },
+      {
+        "month": "Mar",
+        "value": 14084618
+      },
+      {
+        "month": "Apr",
+        "value": 15458727
+      },
+      {
+        "month": "May",
+        "value": 17462636
+      },
+      {
+        "month": "Jun",
+        "value": 19466545
+      },
+      {
+        "month": "Jul",
+        "value": 21470455
+      },
+      {
+        "month": "Aug",
+        "value": 22844564
+      },
+      {
+        "month": "Sep",
+        "value": 25793173
+      },
+      {
+        "month": "Oct",
+        "value": 27797082
+      },
+      {
+        "month": "Nov",
+        "value": 28856291
+      },
+      {
+        "month": "Dec",
+        "value": 32119800
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Recurring revenue"
+    ]
+  },
+  {
+    "id": "deal-65",
+    "name": "Nova Networks",
+    "tagline": "Mobility company building for Pune and beyond",
+    "industry": "Mobility",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 16.74,
+    "investmentAsk": 31300000,
+    "raisedSoFar": 16902000,
+    "minTicket": 100000,
+    "investorsCount": 83,
+    "foundedYear": 2015,
+    "city": "Pune",
+    "description": "Nova Networks is a series b-stage mobility company headquartered in Pune, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 8620020,
+      "expenses": 13014540,
+      "valuation": 271371000,
+      "burnRateMonthly": 676080
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 16.7
+      },
+      {
+        "year": "Y2",
+        "projected": 22.6
+      },
+      {
+        "year": "Y3",
+        "projected": 28.5
+      },
+      {
+        "year": "Y4",
+        "projected": 34.3
+      },
+      {
+        "year": "Y5",
+        "projected": 40.2
+      }
+    ],
+    "riskFactors": [
+      "Regulatory changes",
+      "Technology obsolescence",
+      "Market competition"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 5577660
+      },
+      {
+        "month": "Feb",
+        "value": 5639122
+      },
+      {
+        "month": "Mar",
+        "value": 6883724
+      },
+      {
+        "month": "Apr",
+        "value": 7959305
+      },
+      {
+        "month": "May",
+        "value": 9203907
+      },
+      {
+        "month": "Jun",
+        "value": 10617529
+      },
+      {
+        "month": "Jul",
+        "value": 11862131
+      },
+      {
+        "month": "Aug",
+        "value": 12768693
+      },
+      {
+        "month": "Sep",
+        "value": 13675255
+      },
+      {
+        "month": "Oct",
+        "value": 15088876
+      },
+      {
+        "month": "Nov",
+        "value": 15995438
+      },
+      {
+        "month": "Dec",
+        "value": 17240040
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-66",
+    "name": "Orbit Systems",
+    "tagline": "AI/ML company building for Jaipur and beyond",
+    "industry": "AI/ML",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 14.72,
+    "investmentAsk": 35200000,
+    "raisedSoFar": 8096000,
+    "minTicket": 40000,
+    "investorsCount": 71,
+    "foundedYear": 2014,
+    "city": "Jaipur",
+    "description": "Orbit Systems is a series b-stage ai/ml company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2014, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 4776640,
+      "expenses": 3886080,
+      "valuation": 364672000,
+      "burnRateMonthly": 323840
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 14.7
+      },
+      {
+        "year": "Y2",
+        "projected": 19.9
+      },
+      {
+        "year": "Y3",
+        "projected": 25
+      },
+      {
+        "year": "Y4",
+        "projected": 30.2
+      },
+      {
+        "year": "Y5",
+        "projected": 35.3
+      }
+    ],
+    "riskFactors": [
+      "Technology obsolescence",
+      "Execution risk",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2185920
+      },
+      {
+        "month": "Feb",
+        "value": 2863040
+      },
+      {
+        "month": "Mar",
+        "value": 3621120
+      },
+      {
+        "month": "Apr",
+        "value": 4055360
+      },
+      {
+        "month": "May",
+        "value": 4327680
+      },
+      {
+        "month": "Jun",
+        "value": 5004800
+      },
+      {
+        "month": "Jul",
+        "value": 5681920
+      },
+      {
+        "month": "Aug",
+        "value": 5954240
+      },
+      {
+        "month": "Sep",
+        "value": 6388480
+      },
+      {
+        "month": "Oct",
+        "value": 7065600
+      },
+      {
+        "month": "Nov",
+        "value": 7337920
+      },
+      {
+        "month": "Dec",
+        "value": 8015040
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-67",
+    "name": "Kite Technologies",
+    "tagline": "Consumer Goods company building for Mumbai and beyond",
+    "industry": "Consumer Goods",
+    "stage": "Series B",
+    "risk": "Low",
+    "roi": 9.05,
+    "investmentAsk": 21500000,
+    "raisedSoFar": 4085000,
+    "minTicket": 50000,
+    "investorsCount": 96,
+    "foundedYear": 2013,
+    "city": "Mumbai",
+    "description": "Kite Technologies is a series b-stage consumer goods company headquartered in Mumbai, focused on scalable, technology-first growth. Founded in 2013, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 3594800,
+      "expenses": 3553950,
+      "valuation": 133085000,
+      "burnRateMonthly": 204250
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 9.1
+      },
+      {
+        "year": "Y2",
+        "projected": 12.2
+      },
+      {
+        "year": "Y3",
+        "projected": 15.4
+      },
+      {
+        "year": "Y4",
+        "projected": 18.6
+      },
+      {
+        "year": "Y5",
+        "projected": 21.7
+      }
+    ],
+    "riskFactors": [
+      "Supply chain dependency",
+      "Customer concentration",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1143800
+      },
+      {
+        "month": "Feb",
+        "value": 1444605
+      },
+      {
+        "month": "Mar",
+        "value": 1622859
+      },
+      {
+        "month": "Apr",
+        "value": 1964514
+      },
+      {
+        "month": "May",
+        "value": 2224468
+      },
+      {
+        "month": "Jun",
+        "value": 2525273
+      },
+      {
+        "month": "Jul",
+        "value": 2703527
+      },
+      {
+        "month": "Aug",
+        "value": 3045182
+      },
+      {
+        "month": "Sep",
+        "value": 3223436
+      },
+      {
+        "month": "Oct",
+        "value": 3483391
+      },
+      {
+        "month": "Nov",
+        "value": 3906745
+      },
+      {
+        "month": "Dec",
+        "value": 4125850
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-68",
+    "name": "Bharat Solutions",
+    "tagline": "Fintech company building for Bengaluru and beyond",
+    "industry": "Fintech",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 43.78,
+    "investmentAsk": 33500000,
+    "raisedSoFar": 15410000,
+    "minTicket": 60000,
+    "investorsCount": 84,
+    "foundedYear": 2018,
+    "city": "Bengaluru",
+    "description": "Bharat Solutions is a growth-stage fintech company headquartered in Bengaluru, focused on scalable, technology-first growth. Founded in 2018, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 14947700,
+      "expenses": 9708300,
+      "valuation": 268335000,
+      "burnRateMonthly": 770500
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 43.8
+      },
+      {
+        "year": "Y2",
+        "projected": 59.1
+      },
+      {
+        "year": "Y3",
+        "projected": 74.4
+      },
+      {
+        "year": "Y4",
+        "projected": 89.7
+      },
+      {
+        "year": "Y5",
+        "projected": 105.1
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Market competition",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 4314800
+      },
+      {
+        "month": "Feb",
+        "value": 5911836
+      },
+      {
+        "month": "Mar",
+        "value": 6738373
+      },
+      {
+        "month": "Apr",
+        "value": 7719009
+      },
+      {
+        "month": "May",
+        "value": 8237345
+      },
+      {
+        "month": "Jun",
+        "value": 9372082
+      },
+      {
+        "month": "Jul",
+        "value": 10660918
+      },
+      {
+        "month": "Aug",
+        "value": 11949755
+      },
+      {
+        "month": "Sep",
+        "value": 12005791
+      },
+      {
+        "month": "Oct",
+        "value": 13602827
+      },
+      {
+        "month": "Nov",
+        "value": 13967064
+      },
+      {
+        "month": "Dec",
+        "value": 15101800
+      }
+    ],
+    "tags": [
+      "B2C",
+      "Founder-led"
+    ]
+  },
+  {
+    "id": "deal-69",
+    "name": "Prakash Ventures",
+    "tagline": "Media company building for Bengaluru and beyond",
+    "industry": "Media",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 23.37,
+    "investmentAsk": 2300000,
+    "raisedSoFar": 1541000,
+    "minTicket": 30000,
+    "investorsCount": 97,
+    "foundedYear": 2024,
+    "city": "Bengaluru",
+    "description": "Prakash Ventures is a seed-stage media company headquartered in Bengaluru, focused on scalable, technology-first growth. Founded in 2024, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 1633460,
+      "expenses": 1017060,
+      "valuation": 22080000,
+      "burnRateMonthly": 77050
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 23.4
+      },
+      {
+        "year": "Y2",
+        "projected": 31.5
+      },
+      {
+        "year": "Y3",
+        "projected": 39.7
+      },
+      {
+        "year": "Y4",
+        "projected": 47.9
+      },
+      {
+        "year": "Y5",
+        "projected": 56.1
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Regulatory changes",
+      "Market competition"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 477710
+      },
+      {
+        "month": "Feb",
+        "value": 560364
+      },
+      {
+        "month": "Mar",
+        "value": 627607
+      },
+      {
+        "month": "Apr",
+        "value": 741081
+      },
+      {
+        "month": "May",
+        "value": 869965
+      },
+      {
+        "month": "Jun",
+        "value": 937208
+      },
+      {
+        "month": "Jul",
+        "value": 1066092
+      },
+      {
+        "month": "Aug",
+        "value": 1164155
+      },
+      {
+        "month": "Sep",
+        "value": 1246809
+      },
+      {
+        "month": "Oct",
+        "value": 1360283
+      },
+      {
+        "month": "Nov",
+        "value": 1442936
+      },
+      {
+        "month": "Dec",
+        "value": 1525590
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-70",
+    "name": "Kite Solutions",
+    "tagline": "E-commerce company building for Delhi NCR and beyond",
+    "industry": "E-commerce",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 11.9,
+    "investmentAsk": 1900000,
+    "raisedSoFar": 1026000,
+    "minTicket": 50000,
+    "investorsCount": 59,
+    "foundedYear": 2023,
+    "city": "Delhi NCR",
+    "description": "Kite Solutions is a seed-stage e-commerce company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2023, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 728460,
+      "expenses": 656640,
+      "valuation": 21489000,
+      "burnRateMonthly": 82080
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 11.9
+      },
+      {
+        "year": "Y2",
+        "projected": 16.1
+      },
+      {
+        "year": "Y3",
+        "projected": 20.2
+      },
+      {
+        "year": "Y4",
+        "projected": 24.4
+      },
+      {
+        "year": "Y5",
+        "projected": 28.6
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Regulatory changes",
+      "Execution risk"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 297540
+      },
+      {
+        "month": "Feb",
+        "value": 373091
+      },
+      {
+        "month": "Mar",
+        "value": 407602
+      },
+      {
+        "month": "Apr",
+        "value": 524193
+      },
+      {
+        "month": "May",
+        "value": 599744
+      },
+      {
+        "month": "Jun",
+        "value": 654775
+      },
+      {
+        "month": "Jul",
+        "value": 709805
+      },
+      {
+        "month": "Aug",
+        "value": 744316
+      },
+      {
+        "month": "Sep",
+        "value": 850647
+      },
+      {
+        "month": "Oct",
+        "value": 905678
+      },
+      {
+        "month": "Nov",
+        "value": 960709
+      },
+      {
+        "month": "Dec",
+        "value": 1036260
+      }
+    ],
+    "tags": [
+      "B2C",
+      "B2B"
+    ]
+  },
+  {
+    "id": "deal-71",
+    "name": "Trishul Dynamics",
+    "tagline": "E-commerce company building for Jaipur and beyond",
+    "industry": "E-commerce",
+    "stage": "Series C",
+    "risk": "Medium",
+    "roi": 26.9,
+    "investmentAsk": 11600000,
+    "raisedSoFar": 9628000,
+    "minTicket": 60000,
+    "investorsCount": 56,
+    "foundedYear": 2013,
+    "city": "Jaipur",
+    "description": "Trishul Dynamics is a series c-stage e-commerce company headquartered in Jaipur, focused on scalable, technology-first growth. Founded in 2013, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 6739600,
+      "expenses": 3562360,
+      "valuation": 126324000,
+      "burnRateMonthly": 288840
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 26.9
+      },
+      {
+        "year": "Y2",
+        "projected": 36.3
+      },
+      {
+        "year": "Y3",
+        "projected": 45.7
+      },
+      {
+        "year": "Y4",
+        "projected": 55.1
+      },
+      {
+        "year": "Y5",
+        "projected": 64.6
+      }
+    ],
+    "riskFactors": [
+      "Execution risk",
+      "Customer concentration",
+      "Market competition"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 2599560
+      },
+      {
+        "month": "Feb",
+        "value": 3212251
+      },
+      {
+        "month": "Mar",
+        "value": 4210062
+      },
+      {
+        "month": "Apr",
+        "value": 4919033
+      },
+      {
+        "month": "May",
+        "value": 5146604
+      },
+      {
+        "month": "Jun",
+        "value": 5663015
+      },
+      {
+        "month": "Jul",
+        "value": 6660825
+      },
+      {
+        "month": "Aug",
+        "value": 6888396
+      },
+      {
+        "month": "Sep",
+        "value": 7982487
+      },
+      {
+        "month": "Oct",
+        "value": 8306338
+      },
+      {
+        "month": "Nov",
+        "value": 9207869
+      },
+      {
+        "month": "Dec",
+        "value": 9339160
+      }
+    ],
+    "tags": [
+      "B2B",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-72",
+    "name": "Vertex Technologies",
+    "tagline": "Media company building for Ahmedabad and beyond",
+    "industry": "Media",
+    "stage": "Series B",
+    "risk": "Medium",
+    "roi": 12.07,
+    "investmentAsk": 25800000,
+    "raisedSoFar": 2838000,
+    "minTicket": 70000,
+    "investorsCount": 81,
+    "foundedYear": 2019,
+    "city": "Ahmedabad",
+    "description": "Vertex Technologies is a series b-stage media company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2019, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 1560900,
+      "expenses": 1816320,
+      "valuation": 118422000,
+      "burnRateMonthly": 227040
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 12.1
+      },
+      {
+        "year": "Y2",
+        "projected": 16.3
+      },
+      {
+        "year": "Y3",
+        "projected": 20.5
+      },
+      {
+        "year": "Y4",
+        "projected": 24.7
+      },
+      {
+        "year": "Y5",
+        "projected": 29
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Founder dependency",
+      "Cash flow timing"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 851400
+      },
+      {
+        "month": "Feb",
+        "value": 1032000
+      },
+      {
+        "month": "Mar",
+        "value": 1184220
+      },
+      {
+        "month": "Apr",
+        "value": 1336440
+      },
+      {
+        "month": "May",
+        "value": 1488660
+      },
+      {
+        "month": "Jun",
+        "value": 1726020
+      },
+      {
+        "month": "Jul",
+        "value": 1935000
+      },
+      {
+        "month": "Aug",
+        "value": 2172360
+      },
+      {
+        "month": "Sep",
+        "value": 2211060
+      },
+      {
+        "month": "Oct",
+        "value": 2505180
+      },
+      {
+        "month": "Nov",
+        "value": 2572260
+      },
+      {
+        "month": "Dec",
+        "value": 2838000
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Recurring revenue"
+    ]
+  },
+  {
+    "id": "deal-73",
+    "name": "Ganga Networks",
+    "tagline": "Clean Energy company building for Kolkata and beyond",
+    "industry": "Clean Energy",
+    "stage": "Series C",
+    "risk": "Low",
+    "roi": 30.38,
+    "investmentAsk": 6400000,
+    "raisedSoFar": 3200000,
+    "minTicket": 80000,
+    "investorsCount": 84,
+    "foundedYear": 2018,
+    "city": "Kolkata",
+    "description": "Ganga Networks is a series c-stage clean energy company headquartered in Kolkata, focused on scalable, technology-first growth. Founded in 2018, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 2816000,
+      "expenses": 2528000,
+      "valuation": 38400000,
+      "burnRateMonthly": 128000
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 30.4
+      },
+      {
+        "year": "Y2",
+        "projected": 41
+      },
+      {
+        "year": "Y3",
+        "projected": 51.6
+      },
+      {
+        "year": "Y4",
+        "projected": 62.3
+      },
+      {
+        "year": "Y5",
+        "projected": 72.9
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Technology obsolescence",
+      "Founder dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 928000
+      },
+      {
+        "month": "Feb",
+        "value": 1099636
+      },
+      {
+        "month": "Mar",
+        "value": 1399273
+      },
+      {
+        "month": "Apr",
+        "value": 1474909
+      },
+      {
+        "month": "May",
+        "value": 1774545
+      },
+      {
+        "month": "Jun",
+        "value": 1978182
+      },
+      {
+        "month": "Jul",
+        "value": 2245818
+      },
+      {
+        "month": "Aug",
+        "value": 2353455
+      },
+      {
+        "month": "Sep",
+        "value": 2525091
+      },
+      {
+        "month": "Oct",
+        "value": 2728727
+      },
+      {
+        "month": "Nov",
+        "value": 3092364
+      },
+      {
+        "month": "Dec",
+        "value": 3232000
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "High growth"
+    ]
+  },
+  {
+    "id": "deal-74",
+    "name": "Astra Labs",
+    "tagline": "AI/ML company building for Ahmedabad and beyond",
+    "industry": "AI/ML",
+    "stage": "Series B",
+    "risk": "Medium",
+    "roi": 21.68,
+    "investmentAsk": 10200000,
+    "raisedSoFar": 4998000,
+    "minTicket": 50000,
+    "investorsCount": 23,
+    "foundedYear": 2024,
+    "city": "Ahmedabad",
+    "description": "Astra Labs is a series b-stage ai/ml company headquartered in Ahmedabad, focused on scalable, technology-first growth. Founded in 2024, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 3498600,
+      "expenses": 3698520,
+      "valuation": 73644000,
+      "burnRateMonthly": 249900
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 21.7
+      },
+      {
+        "year": "Y2",
+        "projected": 29.3
+      },
+      {
+        "year": "Y3",
+        "projected": 36.9
+      },
+      {
+        "year": "Y4",
+        "projected": 44.4
+      },
+      {
+        "year": "Y5",
+        "projected": 52
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Founder dependency",
+      "Execution risk"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1599360
+      },
+      {
+        "month": "Feb",
+        "value": 1717495
+      },
+      {
+        "month": "Mar",
+        "value": 2135509
+      },
+      {
+        "month": "Apr",
+        "value": 2553524
+      },
+      {
+        "month": "May",
+        "value": 2621678
+      },
+      {
+        "month": "Jun",
+        "value": 3039693
+      },
+      {
+        "month": "Jul",
+        "value": 3457707
+      },
+      {
+        "month": "Aug",
+        "value": 3625822
+      },
+      {
+        "month": "Sep",
+        "value": 4143796
+      },
+      {
+        "month": "Oct",
+        "value": 4511831
+      },
+      {
+        "month": "Nov",
+        "value": 4829885
+      },
+      {
+        "month": "Dec",
+        "value": 4998000
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-75",
+    "name": "Sundar Ventures",
+    "tagline": "AI/ML company building for Kochi and beyond",
+    "industry": "AI/ML",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 28.95,
+    "investmentAsk": 2700000,
+    "raisedSoFar": 324000,
+    "minTicket": 30000,
+    "investorsCount": 93,
+    "foundedYear": 2024,
+    "city": "Kochi",
+    "description": "Sundar Ventures is a growth-stage ai/ml company headquartered in Kochi, focused on scalable, technology-first growth. Founded in 2024, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 158760,
+      "expenses": 87480,
+      "valuation": 26703000,
+      "burnRateMonthly": 16200
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 29
+      },
+      {
+        "year": "Y2",
+        "projected": 39.1
+      },
+      {
+        "year": "Y3",
+        "projected": 49.2
+      },
+      {
+        "year": "Y4",
+        "projected": 59.3
+      },
+      {
+        "year": "Y5",
+        "projected": 69.5
+      }
+    ],
+    "riskFactors": [
+      "Cash flow timing",
+      "Customer concentration",
+      "Execution risk"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 87480
+      },
+      {
+        "month": "Feb",
+        "value": 121058
+      },
+      {
+        "month": "Mar",
+        "value": 144916
+      },
+      {
+        "month": "Apr",
+        "value": 155815
+      },
+      {
+        "month": "May",
+        "value": 176433
+      },
+      {
+        "month": "Jun",
+        "value": 210011
+      },
+      {
+        "month": "Jul",
+        "value": 227389
+      },
+      {
+        "month": "Aug",
+        "value": 231807
+      },
+      {
+        "month": "Sep",
+        "value": 255665
+      },
+      {
+        "month": "Oct",
+        "value": 279524
+      },
+      {
+        "month": "Nov",
+        "value": 309862
+      },
+      {
+        "month": "Dec",
+        "value": 314280
+      }
+    ],
+    "tags": [
+      "B2C",
+      "Recurring revenue"
+    ]
+  },
+  {
+    "id": "deal-76",
+    "name": "Astra Networks",
+    "tagline": "Biotech company building for Hyderabad and beyond",
+    "industry": "Biotech",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 23.07,
+    "investmentAsk": 48000000,
+    "raisedSoFar": 41280000,
+    "minTicket": 50000,
+    "investorsCount": 57,
+    "foundedYear": 2024,
+    "city": "Hyderabad",
+    "description": "Astra Networks is a growth-stage biotech company headquartered in Hyderabad, focused on scalable, technology-first growth. Founded in 2024, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 38390400,
+      "expenses": 19401600,
+      "valuation": 219360000,
+      "burnRateMonthly": 1238400
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 23.1
+      },
+      {
+        "year": "Y2",
+        "projected": 31.1
+      },
+      {
+        "year": "Y3",
+        "projected": 39.2
+      },
+      {
+        "year": "Y4",
+        "projected": 47.3
+      },
+      {
+        "year": "Y5",
+        "projected": 55.4
+      }
+    ],
+    "riskFactors": [
+      "Market competition",
+      "Technology obsolescence",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 11558400
+      },
+      {
+        "month": "Feb",
+        "value": 15010909
+      },
+      {
+        "month": "Mar",
+        "value": 18050618
+      },
+      {
+        "month": "Apr",
+        "value": 19026327
+      },
+      {
+        "month": "May",
+        "value": 23304436
+      },
+      {
+        "month": "Jun",
+        "value": 25931345
+      },
+      {
+        "month": "Jul",
+        "value": 28558255
+      },
+      {
+        "month": "Aug",
+        "value": 31185164
+      },
+      {
+        "month": "Sep",
+        "value": 34637673
+      },
+      {
+        "month": "Oct",
+        "value": 36851782
+      },
+      {
+        "month": "Nov",
+        "value": 38240291
+      },
+      {
+        "month": "Dec",
+        "value": 40867200
+      }
+    ],
+    "tags": [
+      "Founder-led",
+      "Recurring revenue"
+    ]
+  },
+  {
+    "id": "deal-77",
+    "name": "Astra Works",
+    "tagline": "Mobility company building for Delhi NCR and beyond",
+    "industry": "Mobility",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 8.4,
+    "investmentAsk": 41000000,
+    "raisedSoFar": 10660000,
+    "minTicket": 100000,
+    "investorsCount": 109,
+    "foundedYear": 2015,
+    "city": "Delhi NCR",
+    "description": "Astra Works is a series a-stage mobility company headquartered in Delhi NCR, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 7888400,
+      "expenses": 2132000,
+      "valuation": 267320000,
+      "burnRateMonthly": 319800
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 8.4
+      },
+      {
+        "year": "Y2",
+        "projected": 11.3
+      },
+      {
+        "year": "Y3",
+        "projected": 14.3
+      },
+      {
+        "year": "Y4",
+        "projected": 17.2
+      },
+      {
+        "year": "Y5",
+        "projected": 20.2
+      }
+    ],
+    "riskFactors": [
+      "Supply chain dependency",
+      "Market competition",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 3517800
+      },
+      {
+        "month": "Feb",
+        "value": 3769764
+      },
+      {
+        "month": "Mar",
+        "value": 4341527
+      },
+      {
+        "month": "Apr",
+        "value": 5126491
+      },
+      {
+        "month": "May",
+        "value": 6231255
+      },
+      {
+        "month": "Jun",
+        "value": 6376618
+      },
+      {
+        "month": "Jul",
+        "value": 7161582
+      },
+      {
+        "month": "Aug",
+        "value": 7733345
+      },
+      {
+        "month": "Sep",
+        "value": 8944709
+      },
+      {
+        "month": "Oct",
+        "value": 9516473
+      },
+      {
+        "month": "Nov",
+        "value": 9875036
+      },
+      {
+        "month": "Dec",
+        "value": 10873200
+      }
+    ],
+    "tags": [
+      "B2C",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-78",
+    "name": "Meru Labs",
+    "tagline": "Clean Energy company building for Kochi and beyond",
+    "industry": "Clean Energy",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 12.26,
+    "investmentAsk": 22300000,
+    "raisedSoFar": 17171000,
+    "minTicket": 10000,
+    "investorsCount": 59,
+    "foundedYear": 2020,
+    "city": "Kochi",
+    "description": "Meru Labs is a seed-stage clean energy company headquartered in Kochi, focused on scalable, technology-first growth. Founded in 2020, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 10474310,
+      "expenses": 11676280,
+      "valuation": 157438000,
+      "burnRateMonthly": 343420
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 12.3
+      },
+      {
+        "year": "Y2",
+        "projected": 16.6
+      },
+      {
+        "year": "Y3",
+        "projected": 20.8
+      },
+      {
+        "year": "Y4",
+        "projected": 25.1
+      },
+      {
+        "year": "Y5",
+        "projected": 29.4
+      }
+    ],
+    "riskFactors": [
+      "Customer concentration",
+      "Market competition",
+      "Supply chain dependency"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 5666430
+      },
+      {
+        "month": "Feb",
+        "value": 6759130
+      },
+      {
+        "month": "Mar",
+        "value": 6993280
+      },
+      {
+        "month": "Apr",
+        "value": 7914270
+      },
+      {
+        "month": "May",
+        "value": 9865520
+      },
+      {
+        "month": "Jun",
+        "value": 10614800
+      },
+      {
+        "month": "Jul",
+        "value": 11879210
+      },
+      {
+        "month": "Aug",
+        "value": 12628490
+      },
+      {
+        "month": "Sep",
+        "value": 13549480
+      },
+      {
+        "month": "Oct",
+        "value": 14985600
+      },
+      {
+        "month": "Nov",
+        "value": 16421720
+      },
+      {
+        "month": "Dec",
+        "value": 17686130
+      }
+    ],
+    "tags": [
+      "B2B",
+      "Recurring revenue"
+    ]
+  },
+  {
+    "id": "deal-79",
+    "name": "Sundar Industries",
+    "tagline": "Real Estate company building for Bengaluru and beyond",
+    "industry": "Real Estate",
+    "stage": "Series A",
+    "risk": "Medium",
+    "roi": 9.86,
+    "investmentAsk": 34100000,
+    "raisedSoFar": 5456000,
+    "minTicket": 90000,
+    "investorsCount": 39,
+    "foundedYear": 2015,
+    "city": "Bengaluru",
+    "description": "Sundar Industries is a series a-stage real estate company headquartered in Bengaluru, focused on scalable, technology-first growth. Founded in 2015, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 2509760,
+      "expenses": 1309440,
+      "valuation": 218240000,
+      "burnRateMonthly": 163680
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 9.9
+      },
+      {
+        "year": "Y2",
+        "projected": 13.3
+      },
+      {
+        "year": "Y3",
+        "projected": 16.8
+      },
+      {
+        "year": "Y4",
+        "projected": 20.2
+      },
+      {
+        "year": "Y5",
+        "projected": 23.7
+      }
+    ],
+    "riskFactors": [
+      "Regulatory changes",
+      "Founder dependency",
+      "Customer concentration"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 1636800
+      },
+      {
+        "month": "Feb",
+        "value": 1984000
+      },
+      {
+        "month": "Mar",
+        "value": 2440320
+      },
+      {
+        "month": "Apr",
+        "value": 2569280
+      },
+      {
+        "month": "May",
+        "value": 3025600
+      },
+      {
+        "month": "Jun",
+        "value": 3481920
+      },
+      {
+        "month": "Jul",
+        "value": 3610880
+      },
+      {
+        "month": "Aug",
+        "value": 4121760
+      },
+      {
+        "month": "Sep",
+        "value": 4468960
+      },
+      {
+        "month": "Oct",
+        "value": 4816160
+      },
+      {
+        "month": "Nov",
+        "value": 5217920
+      },
+      {
+        "month": "Dec",
+        "value": 5565120
+      }
+    ],
+    "tags": [
+      "High growth",
+      "Profitable"
+    ]
+  },
+  {
+    "id": "deal-80",
+    "name": "Vertex Industries",
+    "tagline": "Manufacturing company building for Bengaluru and beyond",
+    "industry": "Manufacturing",
+    "stage": "Series C",
+    "risk": "Medium",
+    "roi": 35.77,
+    "investmentAsk": 23700000,
+    "raisedSoFar": 13746000,
+    "minTicket": 90000,
+    "investorsCount": 59,
+    "foundedYear": 2016,
+    "city": "Bengaluru",
+    "description": "Vertex Industries is a series c-stage manufacturing company headquartered in Bengaluru, focused on scalable, technology-first growth. Founded in 2016, the team is raising this round to accelerate product and market expansion.",
+    "financials": {
+      "revenue": 15807900,
+      "expenses": 7835220,
+      "valuation": 192444000,
+      "burnRateMonthly": 412380
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "projected": 35.8
+      },
+      {
+        "year": "Y2",
+        "projected": 48.3
+      },
+      {
+        "year": "Y3",
+        "projected": 60.8
+      },
+      {
+        "year": "Y4",
+        "projected": 73.3
+      },
+      {
+        "year": "Y5",
+        "projected": 85.8
+      }
+    ],
+    "riskFactors": [
+      "Supply chain dependency",
+      "Founder dependency",
+      "Regulatory changes"
+    ],
+    "monthlyGrowth": [
+      {
+        "month": "Jan",
+        "value": 4261260
+      },
+      {
+        "month": "Feb",
+        "value": 5273465
+      },
+      {
+        "month": "Mar",
+        "value": 5735831
+      },
+      {
+        "month": "Apr",
+        "value": 6748036
+      },
+      {
+        "month": "May",
+        "value": 7622782
+      },
+      {
+        "month": "Jun",
+        "value": 8772447
+      },
+      {
+        "month": "Jul",
+        "value": 9372273
+      },
+      {
+        "month": "Aug",
+        "value": 10384478
+      },
+      {
+        "month": "Sep",
+        "value": 11396684
+      },
+      {
+        "month": "Oct",
+        "value": 11859049
+      },
+      {
+        "month": "Nov",
+        "value": 13146175
+      },
+      {
+        "month": "Dec",
+        "value": 14020920
+      }
+    ],
+    "tags": [
+      "Profitable",
+      "High growth"
+    ]
+  }
+]

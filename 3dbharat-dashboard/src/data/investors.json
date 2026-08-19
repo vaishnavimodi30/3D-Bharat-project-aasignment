@@ -1,0 +1,248 @@
+[
+  {
+    "id": "investor-1",
+    "name": "Aarav Shah",
+    "type": "HNI",
+    "preferredIndustries": [
+      "Fintech",
+      "Logistics"
+    ],
+    "preferredRisk": "Medium",
+    "budgetMin": 1000000,
+    "budgetMax": 7500000,
+    "totalInvested": 18165107,
+    "activeDeals": 2,
+    "joinedYear": 2025
+  },
+  {
+    "id": "investor-2",
+    "name": "Priya Nair",
+    "type": "Family Office",
+    "preferredIndustries": [
+      "Agritech",
+      "E-commerce"
+    ],
+    "preferredRisk": "High",
+    "budgetMin": 1200000,
+    "budgetMax": 6600000,
+    "totalInvested": 1147226,
+    "activeDeals": 1,
+    "joinedYear": 2025
+  },
+  {
+    "id": "investor-3",
+    "name": "Rohan Mehta",
+    "type": "Angel Investor",
+    "preferredIndustries": [
+      "Clean Energy",
+      "Fintech",
+      "Logistics"
+    ],
+    "preferredRisk": "Low",
+    "budgetMin": 2000000,
+    "budgetMax": 9200000,
+    "totalInvested": 7991639,
+    "activeDeals": 11,
+    "joinedYear": 2023
+  },
+  {
+    "id": "investor-4",
+    "name": "Ishita Verma",
+    "type": "Family Office",
+    "preferredIndustries": [
+      "SaaS",
+      "Edtech"
+    ],
+    "preferredRisk": "Medium",
+    "budgetMin": 200000,
+    "budgetMax": 1900000,
+    "totalInvested": 4254595,
+    "activeDeals": 1,
+    "joinedYear": 2018
+  },
+  {
+    "id": "investor-5",
+    "name": "Karan Kapoor",
+    "type": "VC Firm",
+    "preferredIndustries": [
+      "Fintech",
+      "Agritech"
+    ],
+    "preferredRisk": "Low",
+    "budgetMin": 1200000,
+    "budgetMax": 6600000,
+    "totalInvested": 17456378,
+    "activeDeals": 1,
+    "joinedYear": 2024
+  },
+  {
+    "id": "investor-6",
+    "name": "Ananya Iyer",
+    "type": "HNI",
+    "preferredIndustries": [
+      "Mobility",
+      "Biotech",
+      "Manufacturing"
+    ],
+    "preferredRisk": "Medium",
+    "budgetMin": 600000,
+    "budgetMax": 10300000,
+    "totalInvested": 3904844,
+    "activeDeals": 12,
+    "joinedYear": 2019
+  },
+  {
+    "id": "investor-7",
+    "name": "Vivaan Joshi",
+    "type": "Family Office",
+    "preferredIndustries": [
+      "Mobility",
+      "E-commerce"
+    ],
+    "preferredRisk": "Low",
+    "budgetMin": 1100000,
+    "budgetMax": 8700000,
+    "totalInvested": 18082550,
+    "activeDeals": 14,
+    "joinedYear": 2023
+  },
+  {
+    "id": "investor-8",
+    "name": "Diya Reddy",
+    "type": "VC Firm",
+    "preferredIndustries": [
+      "Consumer Goods",
+      "SaaS",
+      "Fintech"
+    ],
+    "preferredRisk": "High",
+    "budgetMin": 600000,
+    "budgetMax": 6800000,
+    "totalInvested": 892382,
+    "activeDeals": 6,
+    "joinedYear": 2021
+  },
+  {
+    "id": "investor-9",
+    "name": "Aditya Malhotra",
+    "type": "Angel Investor",
+    "preferredIndustries": [
+      "Media",
+      "Clean Energy",
+      "Biotech"
+    ],
+    "preferredRisk": "Low",
+    "budgetMin": 1200000,
+    "budgetMax": 8100000,
+    "totalInvested": 10071656,
+    "activeDeals": 2,
+    "joinedYear": 2022
+  },
+  {
+    "id": "investor-10",
+    "name": "Sneha Rao",
+    "type": "Family Office",
+    "preferredIndustries": [
+      "Fintech",
+      "SaaS",
+      "Mobility"
+    ],
+    "preferredRisk": "Low",
+    "budgetMin": 1100000,
+    "budgetMax": 9000000,
+    "totalInvested": 13198721,
+    "activeDeals": 13,
+    "joinedYear": 2025
+  },
+  {
+    "id": "investor-11",
+    "name": "Arjun Menon",
+    "type": "VC Firm",
+    "preferredIndustries": [
+      "Real Estate",
+      "Logistics",
+      "Fintech"
+    ],
+    "preferredRisk": "High",
+    "budgetMin": 1000000,
+    "budgetMax": 4800000,
+    "totalInvested": 11211792,
+    "activeDeals": 6,
+    "joinedYear": 2020
+  },
+  {
+    "id": "investor-12",
+    "name": "Kavya Pillai",
+    "type": "VC Firm",
+    "preferredIndustries": [
+      "Fintech",
+      "Consumer Goods"
+    ],
+    "preferredRisk": "High",
+    "budgetMin": 200000,
+    "budgetMax": 3600000,
+    "totalInvested": 1772927,
+    "activeDeals": 9,
+    "joinedYear": 2025
+  },
+  {
+    "id": "investor-13",
+    "name": "Yash Agarwal",
+    "type": "HNI",
+    "preferredIndustries": [
+      "Fintech",
+      "Manufacturing"
+    ],
+    "preferredRisk": "Low",
+    "budgetMin": 1000000,
+    "budgetMax": 7400000,
+    "totalInvested": 1914799,
+    "activeDeals": 12,
+    "joinedYear": 2018
+  },
+  {
+    "id": "investor-14",
+    "name": "Meera Desai",
+    "type": "Family Office",
+    "preferredIndustries": [
+      "Logistics",
+      "Fintech"
+    ],
+    "preferredRisk": "Low",
+    "budgetMin": 1400000,
+    "budgetMax": 2400000,
+    "totalInvested": 1962760,
+    "activeDeals": 10,
+    "joinedYear": 2023
+  },
+  {
+    "id": "investor-15",
+    "name": "Siddharth Bhatt",
+    "type": "Angel Investor",
+    "preferredIndustries": [
+      "Consumer Goods",
+      "AI/ML"
+    ],
+    "preferredRisk": "High",
+    "budgetMin": 2000000,
+    "budgetMax": 4000000,
+    "totalInvested": 16723793,
+    "activeDeals": 7,
+    "joinedYear": 2022
+  },
+  {
+    "id": "investor-16",
+    "name": "Neha Kulkarni",
+    "type": "Family Office",
+    "preferredIndustries": [
+      "Healthtech",
+      "SaaS"
+    ],
+    "preferredRisk": "High",
+    "budgetMin": 1500000,
+    "budgetMax": 2700000,
+    "totalInvested": 516992,
+    "activeDeals": 9,
+    "joinedYear": 2019
+  }
+]
