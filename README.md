@@ -1,6 +1,6 @@
 A fully frontend, no-backend investor/corporate dashboard built for the Full Stack Developer (3D Bharat) take-home assignment. Every "API call" is simulated on the client — there is no server, database, or network request anywhere in this app.
 
-**Live demo:** [https://3d-bharat-project-aasignment.vercel.app](https://3d-bharat-project-aasignment.vercel.app)
+Live demo: https://3-d-bharat-project-aasignment-ffst-livid.vercel.app/
 
 Tech stack
 Next.js 16 (App Router)
