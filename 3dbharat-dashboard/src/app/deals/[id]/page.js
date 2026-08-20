@@ -31,19 +31,29 @@ export default function DealDetailsPage() {
   const { id } = useParams();
   const router = useRouter();
   const dispatch = useDispatch();
-  const { current: deal, currentStatus, currentError } = useSelector((s) => s.deals);
+  const deals = useSelector((s) => s.deals);
   const interested = useSelector((s) => s.interests.dealIds.includes(id));
 
+  // Try to find deal in already-loaded list first (instant display)
+  const dealFromList = deals.list.items.find((d) => d.id === id);
+  
+  // Use cached deal if available, otherwise use the one from detailed fetch
+  const deal = dealFromList || deals.current;
+  const currentStatus = dealFromList ? "succeeded" : deals.currentStatus;
+
   useEffect(() => {
-    dispatch(loadDealById(id));
+    // Only fetch if not already in the list (instant fallback for direct URL access)
+    if (!dealFromList) {
+      dispatch(loadDealById(id));
+    }
     return () => dispatch(clearCurrentDeal());
-  }, [dispatch, id]);
+  }, [dispatch, id, dealFromList]);
 
   if (currentStatus === "loading" || currentStatus === "idle") {
     return <LoadingState label="Loading deal details…" />;
   }
   if (currentStatus === "failed") {
-    return <ErrorState message={currentError} onRetry={() => dispatch(loadDealById(id))} />;
+    return <ErrorState message={deals.currentError} onRetry={() => dispatch(loadDealById(id))} />;
   }
   if (!deal) return null;
 
