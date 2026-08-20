@@ -1,8 +1,10 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import { fetchDeals, fetchDealById, fetchDealSummary } from "@/services/dealService";
 
-export const loadDeals = createAsyncThunk("deals/loadDeals", async (params) => {
-  return await fetchDeals(params);
+export const loadDeals = createAsyncThunk("deals/loadDeals", async (params, { getState }) => {
+  const key = JSON.stringify(params || {});
+  const cached = getState().deals.cache[key];
+  return cached || fetchDeals(params);
 });
 
 export const loadDealById = createAsyncThunk("deals/loadDealById", async (id) => {
@@ -17,6 +19,7 @@ const initialState = {
   list: { items: [], total: 0, page: 1, pageSize: 12 },
   listStatus: "idle", // idle | loading | succeeded | failed
   listError: null,
+  listRequestId: null,
 
   // Simple cache keyed by JSON.stringify(params) so identical filter/sort
   // combos don't re-hit the "network" while the user is browsing back/forth.
@@ -43,17 +46,20 @@ const dealsSlice = createSlice({
   },
   extraReducers: (builder) => {
     builder
-      .addCase(loadDeals.pending, (state) => {
+      .addCase(loadDeals.pending, (state, action) => {
         state.listStatus = "loading";
         state.listError = null;
+        state.listRequestId = action.meta.requestId;
       })
       .addCase(loadDeals.fulfilled, (state, action) => {
+        if (state.listRequestId !== action.meta.requestId) return;
         state.listStatus = "succeeded";
         state.list = action.payload;
         const key = JSON.stringify(action.meta.arg || {});
         state.cache[key] = action.payload;
       })
       .addCase(loadDeals.rejected, (state, action) => {
+        if (state.listRequestId !== action.meta.requestId) return;
         state.listStatus = "failed";
         state.listError = action.error.message;
       })

@@ -7,18 +7,18 @@ import { useEffect, useRef, useState } from "react";
  * Returns the current display value as a string.
  */
 export function useCountUp(target, duration = 1000, formatter = (v) => v) {
-  const [display, setDisplay] = useState(formatter(0));
+  const [display, setDisplay] = useState(() => formatter(target ?? 0));
   const rafRef = useRef(null);
 
   useEffect(() => {
+    // Validate target
     if (target == null || isNaN(Number(String(target).replace(/[^0-9.]/g, "")))) {
-      setDisplay(formatter(target));
       return;
     }
 
     // Extract numeric value from formatted string like "₹12.50 Cr" or "24.5%"
     const numeric = parseFloat(String(target).replace(/[^0-9.]/g, ""));
-    if (!numeric || numeric === 0) { setDisplay(formatter(target)); return; }
+    if (!numeric || numeric === 0) { return; }
 
     const start = performance.now();
     const tick = (now) => {
@@ -37,7 +37,7 @@ export function useCountUp(target, duration = 1000, formatter = (v) => v) {
 
     rafRef.current = requestAnimationFrame(tick);
     return () => cancelAnimationFrame(rafRef.current);
-  }, [target, duration]);
+  }, [target, duration, formatter]);
 
   return display;
 }

@@ -1,26 +1,39 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { useSelector } from "react-redux";
 import { fetchDeals } from "@/services/dealService";
 import { DealCard } from "@/components/deals/DealCard";
-import { LoadingState, EmptyState } from "@/components/ui/StatusState";
+import { LoadingState, ErrorState, EmptyState } from "@/components/ui/StatusState";
 import { formatINR } from "@/utils/format";
 
 export default function MyInvestmentsPage() {
   const interestIds = useSelector((s) => s.interests.dealIds);
   const [allDeals, setAllDeals] = useState([]);
   const [status, setStatus] = useState("loading");
+  const [error, setError] = useState(null);
 
-  useEffect(() => {
+  const loadInterestedDeals = useCallback(() => {
     let cancelled = false;
     fetchDeals({ page: 1, pageSize: 999 })
-      .then((res) => !cancelled && setAllDeals(res.items))
-      .finally(() => !cancelled && setStatus("succeeded"));
+      .then((res) => {
+        if (!cancelled) {
+          setAllDeals(res.items);
+          setStatus("succeeded");
+        }
+      })
+      .catch((err) => {
+        if (!cancelled) {
+          setError(err.message);
+          setStatus("failed");
+        }
+      });
     return () => {
       cancelled = true;
     };
   }, []);
+
+  useEffect(() => loadInterestedDeals(), [loadInterestedDeals]);
 
   const interestedDeals = useMemo(
     () => allDeals.filter((d) => interestIds.includes(d.id)),
@@ -39,6 +52,17 @@ export default function MyInvestmentsPage() {
       </div>
 
       {status === "loading" && <LoadingState label="Loading your saved deals…" />}
+
+      {status === "failed" && (
+        <ErrorState
+          message={error}
+          onRetry={() => {
+            setStatus("loading");
+            setError(null);
+            loadInterestedDeals();
+          }}
+        />
+      )}
 
       {status === "succeeded" && interestedDeals.length === 0 && (
         <EmptyState

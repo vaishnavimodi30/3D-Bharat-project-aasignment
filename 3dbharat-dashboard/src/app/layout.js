@@ -1,7 +1,20 @@
 import "./globals.css";
+import { Space_Grotesk, Inter } from "next/font/google";
 import { Providers } from "./providers";
 import { ThemeSync } from "@/components/layout/ThemeSync";
 import { Navbar } from "@/components/layout/Navbar";
+
+const spaceGrotesk = Space_Grotesk({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-space-grotesk",
+});
+
+const inter = Inter({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+  variable: "--font-inter",
+});
 
 export const metadata = {
   title: "3D Bharat | Investor Deal Platform",
@@ -12,15 +25,8 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className="h-full" suppressHydrationWarning>
-      <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap"
-          rel="stylesheet"
-        />
-      </head>
-      <body className="min-h-full flex flex-col antialiased">
+      <head></head>
+      <body className={`min-h-full flex flex-col antialiased ${spaceGrotesk.variable} ${inter.variable}`}>
         <Providers>
           <ThemeSync />
           <Navbar />
